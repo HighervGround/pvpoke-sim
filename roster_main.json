@@ -1,0 +1,282 @@
+[
+ {
+  "id": "altaria",
+  "moves": [
+   "DRAGON_BREATH",
+   "SKY_ATTACK",
+   "FLAMETHROWER"
+  ],
+  "ivs": [
+   0,
+   15,
+   8
+  ],
+  "label": "Altaria"
+ },
+ {
+  "id": "mimikyu",
+  "moves": [
+   "SHADOW_CLAW",
+   "SHADOW_SNEAK",
+   "PLAY_ROUGH"
+  ],
+  "ivs": [
+   15,
+   12,
+   15
+  ],
+  "label": "Mimikyu"
+ },
+ {
+  "id": "corviknight",
+  "moves": [
+   "SAND_ATTACK",
+   "AIR_CUTTER",
+   "PAYBACK"
+  ],
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "label": "Corviknight"
+ },
+ {
+  "id": "malamar",
+  "moves": [
+   "PSYWAVE",
+   "FOUL_PLAY",
+   "SUPER_POWER"
+  ],
+  "ivs": [
+   1,
+   14,
+   15
+  ],
+  "label": "Malamar"
+ },
+ {
+  "id": "ninetales",
+  "moves": [
+   "FIRE_SPIN",
+   "WEATHER_BALL_FIRE",
+   "SCORCHING_SANDS"
+  ],
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "label": "Ninetales"
+ },
+ {
+  "id": "whiscash",
+  "moves": [
+   "MUD_SHOT",
+   "MUD_BOMB",
+   "BLIZZARD"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "label": "Whiscash"
+ },
+ {
+  "id": "azumarill",
+  "moves": [
+   "BUBBLE",
+   "PLAY_ROUGH",
+   "ICE_BEAM"
+  ],
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "label": "Azumarill"
+ },
+ {
+  "id": "cradily",
+  "moves": [
+   "ACID",
+   "GRASS_KNOT",
+   "ROCK_TOMB"
+  ],
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "label": "Cradily"
+ },
+ {
+  "id": "pelipper",
+  "moves": [
+   "WING_ATTACK",
+   "WEATHER_BALL_WATER",
+   "HURRICANE"
+  ],
+  "ivs": [
+   1,
+   14,
+   15
+  ],
+  "label": "Pelipper"
+ },
+ {
+  "id": "mandibuzz",
+  "moves": [
+   "SNARL",
+   "AERIAL_ACE",
+   "FOUL_PLAY"
+  ],
+  "ivs": [
+   11,
+   14,
+   13
+  ],
+  "label": "Mandibuzz"
+ },
+ {
+  "id": "clodsire",
+  "moves": [
+   "POISON_STING",
+   "STONE_EDGE",
+   "EARTHQUAKE"
+  ],
+  "ivs": [
+   0,
+   14,
+   13
+  ],
+  "label": "Clodsire"
+ },
+ {
+  "id": "excadrill",
+  "moves": [
+   "MUD_SHOT",
+   "IRON_HEAD",
+   "EARTHQUAKE"
+  ],
+  "ivs": [
+   4,
+   13,
+   14
+  ],
+  "label": "Excadrill"
+ },
+ {
+  "id": "dunsparce",
+  "moves": [
+   "ROLLOUT",
+   "ROCK_SLIDE",
+   "DRILL_RUN"
+  ],
+  "ivs": [
+   0,
+   10,
+   11
+  ],
+  "label": "Dunsparce"
+ },
+ {
+  "id": "stunfisk",
+  "moves": [
+   "THUNDER_SHOCK",
+   "MUD_BOMB",
+   "DISCHARGE"
+  ],
+  "ivs": [
+   0,
+   14,
+   15
+  ],
+  "label": "Stunfisk"
+ },
+ {
+  "id": "talonflame",
+  "moves": [
+   "INCINERATE",
+   "FLY",
+   "BRAVE_BIRD"
+  ],
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "label": "Talonflame"
+ },
+ {
+  "id": "umbreon",
+  "moves": [
+   "SNARL",
+   "FOUL_PLAY",
+   "DARK_PULSE"
+  ],
+  "ivs": [
+   2,
+   10,
+   10
+  ],
+  "label": "Umbreon"
+ },
+ {
+  "id": "vigoroth",
+  "moves": [
+   "COUNTER",
+   "ROCK_SLIDE",
+   "BODY_SLAM"
+  ],
+  "ivs": [
+   10,
+   7,
+   14
+  ],
+  "label": "Vigoroth"
+ },
+ {
+  "id": "lanturn",
+  "moves": [
+   "SPARK",
+   "SURF",
+   "THUNDERBOLT"
+  ],
+  "ivs": [
+   8,
+   8,
+   12
+  ],
+  "label": "Lanturn"
+ },
+ {
+  "id": "abomasnow",
+  "moves": [
+   "POWDER_SNOW",
+   "ENERGY_BALL",
+   "WEATHER_BALL_ICE"
+  ],
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "label": "Abomasnow"
+ },
+ {
+  "id": "jellicent",
+  "moves": [
+   "HEX",
+   "SURF",
+   "SHADOW_BALL"
+  ],
+  "ivs": [
+   11,
+   12,
+   15
+  ],
+  "label": "Jellicent"
+ }
+]

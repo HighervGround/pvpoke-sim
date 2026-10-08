@@ -1,0 +1,305 @@
+[
+ {
+  "id": "altaria",
+  "moves": [
+   "DRAGON_BREATH",
+   "FLAMETHROWER",
+   "SKY_ATTACK"
+  ],
+  "ivs": [
+   0,
+   15,
+   8
+  ],
+  "level": 29.5,
+  "label": "Altaria (1499)"
+ },
+ {
+  "id": "quagsire",
+  "moves": [
+   "MUD_SHOT",
+   "AQUA_TAIL",
+   "MUD_BOMB"
+  ],
+  "ivs": [
+   0,
+   15,
+   14
+  ],
+  "level": 29,
+  "label": "Quagsire (1499)"
+ },
+ {
+  "id": "talonflame",
+  "moves": [
+   "INCINERATE",
+   "FLAME_CHARGE",
+   "FLY"
+  ],
+  "ivs": [
+   2,
+   15,
+   15
+  ],
+  "level": 25.5,
+  "label": "Talonflame (1497)"
+ },
+ {
+  "id": "jellicent",
+  "moves": [
+   "HEX",
+   "SURF",
+   "SHADOW_BALL"
+  ],
+  "ivs": [
+   11,
+   15,
+   12
+  ],
+  "level": 23,
+  "label": "Jellicent (1492)"
+ },
+ {
+  "id": "slowking",
+  "moves": [
+   "WATER_GUN",
+   "BLIZZARD"
+  ],
+  "ivs": [
+   11,
+   14,
+   14
+  ],
+  "level": 21,
+  "label": "Slowking (1488) shiny"
+ },
+ {
+  "id": "abomasnow",
+  "moves": [
+   "POWDER_SNOW",
+   "WEATHER_BALL_ICE",
+   "ENERGY_BALL"
+  ],
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "level": 22,
+  "label": "Abomasnow (1484) hundo"
+ },
+ {
+  "id": "lanturn",
+  "moves": [
+   "SPARK",
+   "THUNDERBOLT",
+   "SURF"
+  ],
+  "ivs": [
+   8,
+   6,
+   11
+  ],
+  "level": 27,
+  "label": "Lanturn (1482) shiny"
+ },
+ {
+  "id": "clodsire",
+  "moves": [
+   "POISON_STING",
+   "EARTHQUAKE",
+   "STONE_EDGE"
+  ],
+  "ivs": [
+   14,
+   12,
+   15
+  ],
+  "level": 27,
+  "label": "Clodsire (1482)"
+ },
+ {
+  "id": "azumarill",
+  "moves": [
+   "BUBBLE",
+   "PLAY_ROUGH",
+   "ICE_BEAM"
+  ],
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "level": 44.5,
+  "label": "Azumarill (1481)"
+ },
+ {
+  "id": "empoleon",
+  "moves": [
+   "METAL_SOUND",
+   "HYDRO_PUMP",
+   "DRILL_PECK"
+  ],
+  "ivs": [
+   8,
+   13,
+   15
+  ],
+  "level": 18.5,
+  "label": "Empoleon (1478) shiny"
+ },
+ {
+  "id": "avalugg_hisuian",
+  "moves": [
+   "TACKLE",
+   "BLIZZARD"
+  ],
+  "ivs": [
+   10,
+   13,
+   12
+  ],
+  "level": 15,
+  "label": "H-Avalugg (1434)"
+ },
+ {
+  "id": "dunsparce",
+  "moves": [
+   "ROLLOUT",
+   "DRILL_RUN"
+  ],
+  "ivs": [
+   5,
+   5,
+   10
+  ],
+  "level": 33,
+  "label": "Dunsparce (1351) shiny"
+ },
+ {
+  "id": "mandibuzz",
+  "moves": [
+   "AIR_SLASH",
+   "FOUL_PLAY"
+  ],
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "level": 22,
+  "label": "Mandibuzz (1338)"
+ },
+ {
+  "id": "malamar",
+  "moves": [
+   "PECK",
+   "PSYBEAM"
+  ],
+  "ivs": [
+   15,
+   13,
+   12
+  ],
+  "level": 20,
+  "label": "Malamar (1331)"
+ },
+ {
+  "id": "stunfisk_galarian",
+  "moves": [
+   "METAL_CLAW",
+   "EARTHQUAKE"
+  ],
+  "ivs": [
+   14,
+   15,
+   13
+  ],
+  "level": 20,
+  "label": "G-Stunfisk (1223)"
+ },
+ {
+  "id": "stunfisk_galarian",
+  "moves": [
+   "METAL_CLAW",
+   "FLASH_CANNON"
+  ],
+  "ivs": [
+   12,
+   15,
+   15
+  ],
+  "level": 20,
+  "label": "G-Stunfisk (1212)"
+ },
+ {
+  "id": "qwilfish_hisuian",
+  "moves": [
+   "POISON_STING",
+   "SHADOW_BALL"
+  ],
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "level": 20,
+  "label": "H-Qwilfish (1211)"
+ },
+ {
+  "id": "charizard",
+  "moves": [
+   "FIRE_SPIN",
+   "FIRE_BLAST"
+  ],
+  "ivs": [
+   12,
+   10,
+   13
+  ],
+  "level": 15,
+  "label": "Charizard (1200)"
+ },
+ {
+  "id": "carbink",
+  "moves": [
+   "ROCK_THROW",
+   "ROCK_SLIDE"
+  ],
+  "ivs": [
+   13,
+   15,
+   14
+  ],
+  "level": 20,
+  "label": "Carbink (820)"
+ },
+ {
+  "id": "carbink",
+  "moves": [
+   "ROCK_THROW",
+   "POWER_GEM"
+  ],
+  "ivs": [
+   10,
+   15,
+   15
+  ],
+  "level": 20,
+  "label": "Carbink (800)"
+ },
+ {
+  "id": "azumarill",
+  "moves": [
+   "ROCK_SMASH",
+   "PLAY_ROUGH"
+  ],
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "level": 26,
+  "label": "Azumarill (1166)"
+ }
+]
