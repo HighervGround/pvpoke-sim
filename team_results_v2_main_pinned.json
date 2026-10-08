@@ -1,0 +1,518 @@
+{
+ "meta": "live mega 1500 overall, top40 by rating",
+ "shields": "0/1/2 @ .25/.5/.25",
+ "top": [
+  {
+   "score": 206.41975603723245,
+   "team": [
+    "Mimikyu",
+    "Whiscash",
+    "Umbreon"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(572)",
+    "Pangoro (Shadow)(559)",
+    "Sableye (Shadow)(538)"
+   ],
+   "specs": [
+    {
+     "id": "mimikyu",
+     "moves": [
+      "SHADOW_CLAW",
+      "SHADOW_SNEAK",
+      "PLAY_ROUGH"
+     ],
+     "ivs": [
+      15,
+      12,
+      15
+     ],
+     "level": 15
+    },
+    {
+     "id": "whiscash",
+     "moves": [
+      "MUD_SHOT",
+      "MUD_BOMB",
+      "BLIZZARD"
+     ],
+     "ivs": [
+      4,
+      15,
+      14
+     ],
+     "level": 27
+    },
+    {
+     "id": "umbreon",
+     "moves": [
+      "SNARL",
+      "FOUL_PLAY",
+      "DARK_PULSE"
+     ],
+     "ivs": [
+      2,
+      10,
+      10
+     ],
+     "level": 26
+    }
+   ],
+   "lead": "whiscash",
+   "leadScores": [
+    "whiscash:371",
+    "mimikyu:372",
+    "umbreon:391"
+   ]
+  },
+  {
+   "score": 233.9443165522809,
+   "team": [
+    "Mimikyu",
+    "Whiscash",
+    "Lanturn"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(572)",
+    "Pangoro (Shadow)(538)",
+    "Pangoro(530)"
+   ],
+   "specs": [
+    {
+     "id": "mimikyu",
+     "moves": [
+      "SHADOW_CLAW",
+      "SHADOW_SNEAK",
+      "PLAY_ROUGH"
+     ],
+     "ivs": [
+      15,
+      12,
+      15
+     ],
+     "level": 15
+    },
+    {
+     "id": "whiscash",
+     "moves": [
+      "MUD_SHOT",
+      "MUD_BOMB",
+      "BLIZZARD"
+     ],
+     "ivs": [
+      4,
+      15,
+      14
+     ],
+     "level": 27
+    },
+    {
+     "id": "lanturn",
+     "moves": [
+      "SPARK",
+      "SURF",
+      "THUNDERBOLT"
+     ],
+     "ivs": [
+      8,
+      8,
+      12
+     ],
+     "level": 23
+    }
+   ],
+   "lead": "whiscash",
+   "leadScores": [
+    "whiscash:371",
+    "mimikyu:372",
+    "lanturn:488"
+   ]
+  },
+  {
+   "score": 233.95438755441796,
+   "team": [
+    "Mimikyu",
+    "Clodsire",
+    "Umbreon"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(553)",
+    "Kingdra (Shadow)(535)",
+    "Sableye (Shadow)(535)"
+   ],
+   "specs": [
+    {
+     "id": "mimikyu",
+     "moves": [
+      "SHADOW_CLAW",
+      "SHADOW_SNEAK",
+      "PLAY_ROUGH"
+     ],
+     "ivs": [
+      15,
+      12,
+      15
+     ],
+     "level": 15
+    },
+    {
+     "id": "clodsire",
+     "moves": [
+      "POISON_STING",
+      "STONE_EDGE",
+      "EARTHQUAKE"
+     ],
+     "ivs": [
+      0,
+      14,
+      13
+     ],
+     "level": 25
+    },
+    {
+     "id": "umbreon",
+     "moves": [
+      "SNARL",
+      "FOUL_PLAY",
+      "DARK_PULSE"
+     ],
+     "ivs": [
+      2,
+      10,
+      10
+     ],
+     "level": 26
+    }
+   ],
+   "lead": "mimikyu",
+   "leadScores": [
+    "mimikyu:372",
+    "umbreon:391",
+    "clodsire:428"
+   ]
+  },
+  {
+   "score": 236.42007329817488,
+   "team": [
+    "Whiscash",
+    "Clodsire",
+    "Umbreon"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(540)",
+    "Pangoro (Shadow)(537)",
+    "Doublade(534)"
+   ],
+   "specs": [
+    {
+     "id": "whiscash",
+     "moves": [
+      "MUD_SHOT",
+      "MUD_BOMB",
+      "BLIZZARD"
+     ],
+     "ivs": [
+      4,
+      15,
+      14
+     ],
+     "level": 27
+    },
+    {
+     "id": "clodsire",
+     "moves": [
+      "POISON_STING",
+      "STONE_EDGE",
+      "EARTHQUAKE"
+     ],
+     "ivs": [
+      0,
+      14,
+      13
+     ],
+     "level": 25
+    },
+    {
+     "id": "umbreon",
+     "moves": [
+      "SNARL",
+      "FOUL_PLAY",
+      "DARK_PULSE"
+     ],
+     "ivs": [
+      2,
+      10,
+      10
+     ],
+     "level": 26
+    }
+   ],
+   "lead": "whiscash",
+   "leadScores": [
+    "whiscash:371",
+    "umbreon:391",
+    "clodsire:427"
+   ]
+  },
+  {
+   "score": 239.50154560187224,
+   "team": [
+    "Mimikyu",
+    "Whiscash",
+    "Stunfisk"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(549)",
+    "Pangoro(538)",
+    "Doublade(538)"
+   ],
+   "specs": [
+    {
+     "id": "mimikyu",
+     "moves": [
+      "SHADOW_CLAW",
+      "SHADOW_SNEAK",
+      "PLAY_ROUGH"
+     ],
+     "ivs": [
+      15,
+      12,
+      15
+     ],
+     "level": 15
+    },
+    {
+     "id": "whiscash",
+     "moves": [
+      "MUD_SHOT",
+      "MUD_BOMB",
+      "BLIZZARD"
+     ],
+     "ivs": [
+      4,
+      15,
+      14
+     ],
+     "level": 27
+    },
+    {
+     "id": "stunfisk",
+     "moves": [
+      "THUNDER_SHOCK",
+      "MUD_BOMB",
+      "DISCHARGE"
+     ],
+     "ivs": [
+      0,
+      14,
+      15
+     ],
+     "level": 21
+    }
+   ],
+   "lead": "whiscash",
+   "leadScores": [
+    "whiscash:371",
+    "mimikyu:372",
+    "stunfisk:455"
+   ]
+  }
+ ],
+ "top15": [
+  {
+   "score": 206.41975603723245,
+   "team": [
+    "Mimikyu",
+    "Whiscash",
+    "Umbreon"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(572)",
+    "Pangoro (Shadow)(559)",
+    "Sableye (Shadow)(538)"
+   ]
+  },
+  {
+   "score": 233.9443165522809,
+   "team": [
+    "Mimikyu",
+    "Whiscash",
+    "Lanturn"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(572)",
+    "Pangoro (Shadow)(538)",
+    "Pangoro(530)"
+   ]
+  },
+  {
+   "score": 233.95438755441796,
+   "team": [
+    "Mimikyu",
+    "Clodsire",
+    "Umbreon"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(553)",
+    "Kingdra (Shadow)(535)",
+    "Sableye (Shadow)(535)"
+   ]
+  },
+  {
+   "score": 236.42007329817488,
+   "team": [
+    "Whiscash",
+    "Clodsire",
+    "Umbreon"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(540)",
+    "Pangoro (Shadow)(537)",
+    "Doublade(534)"
+   ]
+  },
+  {
+   "score": 239.50154560187224,
+   "team": [
+    "Mimikyu",
+    "Whiscash",
+    "Stunfisk"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(549)",
+    "Pangoro(538)",
+    "Doublade(538)"
+   ]
+  },
+  {
+   "score": 242.16377664531507,
+   "team": [
+    "Mimikyu",
+    "Stunfisk",
+    "Umbreon"
+   ],
+   "worst": [
+    "Sableye (Shadow)(553)",
+    "Mimikyu (Busted)(549)",
+    "Pangoro (Shadow)(549)"
+   ]
+  },
+  {
+   "score": 243.06251597449915,
+   "team": [
+    "Mimikyu",
+    "Corviknight",
+    "Whiscash"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(572)",
+    "Pangoro (Shadow)(556)",
+    "Sableye (Shadow)(545)"
+   ]
+  },
+  {
+   "score": 244.31628244146748,
+   "team": [
+    "Corviknight",
+    "Whiscash",
+    "Umbreon"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(580)",
+    "Pangoro (Shadow)(556)",
+    "Sableye (Shadow)(540)"
+   ]
+  },
+  {
+   "score": 247.36746505634468,
+   "team": [
+    "Mimikyu",
+    "Whiscash",
+    "Clodsire"
+   ],
+   "worst": [
+    "Hydreigon (Shadow)(538)",
+    "Doublade(533)",
+    "Pangoro(530)"
+   ]
+  },
+  {
+   "score": 254.24551263657145,
+   "team": [
+    "Whiscash",
+    "Umbreon",
+    "Abomasnow"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(569)",
+    "Doublade(542)",
+    "Pangoro(540)"
+   ]
+  },
+  {
+   "score": 254.7915995107062,
+   "team": [
+    "Mimikyu",
+    "Whiscash",
+    "Abomasnow"
+   ],
+   "worst": [
+    "Pangoro (Shadow)(569)",
+    "Mimikyu (Busted)(561)",
+    "Sableye (Shadow)(542)"
+   ]
+  },
+  {
+   "score": 255.24928463497315,
+   "team": [
+    "Mimikyu",
+    "Ninetales",
+    "Whiscash"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(567)",
+    "Pangoro (Shadow)(567)",
+    "Hydreigon (Shadow)(538)"
+   ]
+  },
+  {
+   "score": 255.3985480865121,
+   "team": [
+    "Mimikyu",
+    "Ninetales",
+    "Umbreon"
+   ],
+   "worst": [
+    "Pangoro (Shadow)(572)",
+    "Mimikyu (Busted)(567)",
+    "Sableye (Shadow)(564)"
+   ]
+  },
+  {
+   "score": 256.4340985432186,
+   "team": [
+    "Corviknight",
+    "Whiscash",
+    "Clodsire"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(540)",
+    "Doublade(537)",
+    "Pangoro(529)"
+   ]
+  },
+  {
+   "score": 258.6727563424482,
+   "team": [
+    "Mimikyu",
+    "Corviknight",
+    "Umbreon"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(572)",
+    "Pangoro (Shadow)(564)",
+    "Sableye (Shadow)(556)"
+   ]
+  }
+ ]
+}

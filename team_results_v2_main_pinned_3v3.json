@@ -1,0 +1,57 @@
+[
+ {
+  "team": [
+   "Mimikyu",
+   "Whiscash",
+   "Lanturn"
+  ],
+  "lead": "whiscash",
+  "winRate": 0.3230769230769231,
+  "wins": 21,
+  "total": 65
+ },
+ {
+  "team": [
+   "Whiscash",
+   "Clodsire",
+   "Umbreon"
+  ],
+  "lead": "whiscash",
+  "winRate": 0.23076923076923078,
+  "wins": 15,
+  "total": 65
+ },
+ {
+  "team": [
+   "Mimikyu",
+   "Whiscash",
+   "Stunfisk"
+  ],
+  "lead": "whiscash",
+  "winRate": 0.23076923076923078,
+  "wins": 15,
+  "total": 65
+ },
+ {
+  "team": [
+   "Mimikyu",
+   "Whiscash",
+   "Umbreon"
+  ],
+  "lead": "whiscash",
+  "winRate": 0.16923076923076924,
+  "wins": 11,
+  "total": 65
+ },
+ {
+  "team": [
+   "Mimikyu",
+   "Clodsire",
+   "Umbreon"
+  ],
+  "lead": "mimikyu",
+  "winRate": 0.15384615384615385,
+  "wins": 10,
+  "total": 65
+ }
+]
