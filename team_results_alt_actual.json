@@ -1,0 +1,392 @@
+[
+ {
+  "threatScore": 198.2607443531937,
+  "team": [
+   "Quagsire (1499)",
+   "Talonflame (1497)",
+   "Jellicent (1492)"
+  ],
+  "worst": [
+   "Melmetal(514)",
+   "Mega Sableye(243)",
+   "Sh Ninetales(242)"
+  ]
+ },
+ {
+  "threatScore": 198.26795368964147,
+  "team": [
+   "Quagsire (1499)",
+   "Talonflame (1497)",
+   "Empoleon (1478) shiny"
+  ],
+  "worst": [
+   "Melmetal(553)",
+   "Mega Sableye(242)",
+   "Sh Ninetales(231)"
+  ]
+ },
+ {
+  "threatScore": 199.5990993827909,
+  "team": [
+   "Abomasnow (1484) hundo",
+   "Clodsire (1482)",
+   "Azumarill (1481)"
+  ],
+  "worst": [
+   "Melmetal(558)",
+   "Altaria(248)",
+   "Morpeko(229)"
+  ]
+ },
+ {
+  "threatScore": 201.0364402176095,
+  "team": [
+   "Talonflame (1497)",
+   "Clodsire (1482)",
+   "Azumarill (1481)"
+  ],
+  "worst": [
+   "Melmetal(551)",
+   "Tinkaton(248)",
+   "Altaria(240)"
+  ]
+ },
+ {
+  "threatScore": 201.19458790905753,
+  "team": [
+   "Quagsire (1499)",
+   "Lanturn (1482) shiny",
+   "Empoleon (1478) shiny"
+  ],
+  "worst": [
+   "Melmetal(520)",
+   "Sh Ninetales(248)",
+   "Mega Sableye(242)"
+  ]
+ },
+ {
+  "threatScore": 203.18175531456717,
+  "team": [
+   "Quagsire (1499)",
+   "Azumarill (1481)",
+   "Empoleon (1478) shiny"
+  ],
+  "worst": [
+   "Melmetal(505)",
+   "Mega Sableye(242)",
+   "Altaria(239)"
+  ]
+ },
+ {
+  "threatScore": 203.78303813016691,
+  "team": [
+   "Jellicent (1492)",
+   "Clodsire (1482)",
+   "Azumarill (1481)"
+  ],
+  "worst": [
+   "Melmetal(558)",
+   "Mega Sableye(237)",
+   "Stunfisk(228)"
+  ]
+ },
+ {
+  "threatScore": 203.7978385224059,
+  "team": [
+   "Lanturn (1482) shiny",
+   "Clodsire (1482)",
+   "Azumarill (1481)"
+  ],
+  "worst": [
+   "Melmetal(557)",
+   "Mega Sableye(248)",
+   "Cramorant(229)"
+  ]
+ },
+ {
+  "threatScore": 207.27023013143767,
+  "team": [
+   "Quagsire (1499)",
+   "Clodsire (1482)",
+   "Azumarill (1481)"
+  ],
+  "worst": [
+   "Melmetal(507)",
+   "Mega Sableye(242)",
+   "Cramorant(240)"
+  ]
+ },
+ {
+  "threatScore": 211.0897686122162,
+  "team": [
+   "Altaria (1499)",
+   "Quagsire (1499)",
+   "Empoleon (1478) shiny"
+  ],
+  "worst": [
+   "Melmetal(504)",
+   "Altaria(248)",
+   "Cramorant(248)"
+  ]
+ },
+ {
+  "threatScore": 212.81129499583864,
+  "team": [
+   "Quagsire (1499)",
+   "Talonflame (1497)",
+   "Lanturn (1482) shiny"
+  ],
+  "worst": [
+   "Mega Sableye(535)",
+   "Melmetal(530)",
+   "Altaria(242)"
+  ]
+ },
+ {
+  "threatScore": 214.0349968186883,
+  "team": [
+   "Altaria (1499)",
+   "Clodsire (1482)",
+   "Azumarill (1481)"
+  ],
+  "worst": [
+   "Melmetal(558)",
+   "Sh Ninetales(248)",
+   "Mega Sableye(240)"
+  ]
+ },
+ {
+  "threatScore": 214.6276301661518,
+  "team": [
+   "Quagsire (1499)",
+   "Jellicent (1492)",
+   "Clodsire (1482)"
+  ],
+  "worst": [
+   "Melmetal(537)",
+   "Sh Ninetales(243)",
+   "Mega Sableye(242)"
+  ]
+ },
+ {
+  "threatScore": 214.82954997068177,
+  "team": [
+   "Clodsire (1482)",
+   "Azumarill (1481)",
+   "Dunsparce (1351) shiny"
+  ],
+  "worst": [
+   "Melmetal(535)",
+   "Tinkaton(248)",
+   "Cramorant(240)"
+  ]
+ },
+ {
+  "threatScore": 215.76537825941182,
+  "team": [
+   "Quagsire (1499)",
+   "Abomasnow (1484) hundo",
+   "Lanturn (1482) shiny"
+  ],
+  "worst": [
+   "Mega Sableye(520)",
+   "Melmetal(520)",
+   "Altaria(242)"
+  ]
+ },
+ {
+  "threatScore": 217.92027728101783,
+  "team": [
+   "Quagsire (1499)",
+   "Jellicent (1492)",
+   "Abomasnow (1484) hundo"
+  ],
+  "worst": [
+   "Melmetal(528)",
+   "Mega Sableye(514)",
+   "Sh Ninetales(243)"
+  ]
+ },
+ {
+  "threatScore": 221.3221698206039,
+  "team": [
+   "Quagsire (1499)",
+   "Abomasnow (1484) hundo",
+   "Clodsire (1482)"
+  ],
+  "worst": [
+   "Melmetal(530)",
+   "Mega Sableye(528)",
+   "Altaria(242)"
+  ]
+ },
+ {
+  "threatScore": 223.00358089448957,
+  "team": [
+   "Talonflame (1497)",
+   "Clodsire (1482)",
+   "Empoleon (1478) shiny"
+  ],
+  "worst": [
+   "Mega Sableye(542)",
+   "Melmetal(530)",
+   "Altaria(248)"
+  ]
+ },
+ {
+  "threatScore": 223.4251668119243,
+  "team": [
+   "Talonflame (1497)",
+   "Jellicent (1492)",
+   "Clodsire (1482)"
+  ],
+  "worst": [
+   "Melmetal(551)",
+   "Mega Sableye(529)",
+   "Altaria(243)"
+  ]
+ },
+ {
+  "threatScore": 224.517168566204,
+  "team": [
+   "Quagsire (1499)",
+   "Talonflame (1497)",
+   "Abomasnow (1484) hundo"
+  ],
+  "worst": [
+   "Melmetal(549)",
+   "Mega Sableye(520)",
+   "Altaria(516)"
+  ]
+ },
+ {
+  "threatScore": 225.19020620790477,
+  "team": [
+   "Quagsire (1499)",
+   "Abomasnow (1484) hundo",
+   "Empoleon (1478) shiny"
+  ],
+  "worst": [
+   "Melmetal(549)",
+   "Mega Sableye(528)",
+   "Sh Ninetales(242)"
+  ]
+ },
+ {
+  "threatScore": 225.77910957268722,
+  "team": [
+   "Clodsire (1482)",
+   "Azumarill (1481)",
+   "Empoleon (1478) shiny"
+  ],
+  "worst": [
+   "Melmetal(542)",
+   "Mega Sableye(505)",
+   "Altaria(248)"
+  ]
+ },
+ {
+  "threatScore": 226.15668582271513,
+  "team": [
+   "Quagsire (1499)",
+   "Jellicent (1492)",
+   "Azumarill (1481)"
+  ],
+  "worst": [
+   "Melmetal(531)",
+   "Mega Sableye(514)",
+   "Altaria(242)"
+  ]
+ },
+ {
+  "threatScore": 226.49358671277346,
+  "team": [
+   "Quagsire (1499)",
+   "Talonflame (1497)",
+   "Clodsire (1482)"
+  ],
+  "worst": [
+   "Mega Sableye(536)",
+   "Melmetal(530)",
+   "Altaria(242)"
+  ]
+ },
+ {
+  "threatScore": 227.67798403358552,
+  "team": [
+   "Quagsire (1499)",
+   "Lanturn (1482) shiny",
+   "Clodsire (1482)"
+  ],
+  "worst": [
+   "Melmetal(535)",
+   "Mega Sableye(520)",
+   "Altaria(242)"
+  ]
+ },
+ {
+  "threatScore": 228.30742079097809,
+  "team": [
+   "Abomasnow (1484) hundo",
+   "Lanturn (1482) shiny",
+   "Clodsire (1482)"
+  ],
+  "worst": [
+   "Melmetal(557)",
+   "Mega Sableye(526)",
+   "Altaria(520)"
+  ]
+ },
+ {
+  "threatScore": 230.9551641104831,
+  "team": [
+   "Talonflame (1497)",
+   "Abomasnow (1484) hundo",
+   "Clodsire (1482)"
+  ],
+  "worst": [
+   "Melmetal(551)",
+   "Mega Sableye(530)",
+   "Altaria(526)"
+  ]
+ },
+ {
+  "threatScore": 232.57228951532392,
+  "team": [
+   "Quagsire (1499)",
+   "Talonflame (1497)",
+   "Azumarill (1481)"
+  ],
+  "worst": [
+   "Mega Sableye(530)",
+   "Altaria(526)",
+   "Melmetal(521)"
+  ]
+ },
+ {
+  "threatScore": 234.31252709577996,
+  "team": [
+   "Jellicent (1492)",
+   "Abomasnow (1484) hundo",
+   "Empoleon (1478) shiny"
+  ],
+  "worst": [
+   "Mega Sableye(542)",
+   "Altaria(528)",
+   "Melmetal(504)"
+  ]
+ },
+ {
+  "threatScore": 234.40447160375902,
+  "team": [
+   "Jellicent (1492)",
+   "Clodsire (1482)",
+   "Empoleon (1478) shiny"
+  ],
+  "worst": [
+   "Melmetal(542)",
+   "Mega Sableye(537)",
+   "Sh Ninetales(243)"
+  ]
+ }
+]

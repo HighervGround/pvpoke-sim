@@ -1,0 +1,57 @@
+[
+ {
+  "team": [
+   "Altaria (1499)",
+   "Quagsire (1499)",
+   "Azumarill (1481)"
+  ],
+  "lead": "azumarill",
+  "winRate": 0.48717948717948717,
+  "wins": 19,
+  "total": 39
+ },
+ {
+  "team": [
+   "Talonflame (1497)",
+   "Clodsire (1482)",
+   "Azumarill (1481)"
+  ],
+  "lead": "azumarill",
+  "winRate": 0.48717948717948717,
+  "wins": 19,
+  "total": 39
+ },
+ {
+  "team": [
+   "Quagsire (1499)",
+   "Talonflame (1497)",
+   "Azumarill (1481)"
+  ],
+  "lead": "azumarill",
+  "winRate": 0.3333333333333333,
+  "wins": 13,
+  "total": 39
+ },
+ {
+  "team": [
+   "Quagsire (1499)",
+   "Jellicent (1492)",
+   "Azumarill (1481)"
+  ],
+  "lead": "azumarill",
+  "winRate": 0.3333333333333333,
+  "wins": 13,
+  "total": 39
+ },
+ {
+  "team": [
+   "Quagsire (1499)",
+   "Lanturn (1482) shiny",
+   "Azumarill (1481)"
+  ],
+  "lead": "azumarill",
+  "winRate": 0.15384615384615385,
+  "wins": 6,
+  "total": 39
+ }
+]

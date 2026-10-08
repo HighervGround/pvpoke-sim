@@ -1,0 +1,683 @@
+[
+ {
+  "id": "mimikyu",
+  "moves": [
+   "SHADOW_CLAW",
+   "SHADOW_SNEAK",
+   "PLAY_ROUGH"
+  ],
+  "ivs": [
+   4,
+   14,
+   15
+  ],
+  "level": 25,
+  "label": "Mimikyu (Busted)",
+  "w": 792,
+  "rating": 792
+ },
+ {
+  "id": "pangoro_shadow",
+  "moves": [
+   "KARATE_CHOP",
+   "CLOSE_COMBAT",
+   "NIGHT_SLASH"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 19,
+  "label": "Pangoro (Shadow)",
+  "w": 728,
+  "rating": 728
+ },
+ {
+  "id": "sableye_shadow",
+  "moves": [
+   "SHADOW_CLAW",
+   "FOUL_PLAY",
+   "DRAIN_PUNCH"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 47,
+  "label": "Sableye (Shadow)",
+  "w": 726,
+  "rating": 726
+ },
+ {
+  "id": "doublade",
+  "moves": [
+   "SHADOW_CLAW",
+   "SACRED_SWORD",
+   "IRON_HEAD"
+  ],
+  "ivs": [
+   6,
+   15,
+   15
+  ],
+  "level": 22.5,
+  "label": "Doublade",
+  "w": 725,
+  "rating": 725
+ },
+ {
+  "id": "pangoro",
+  "moves": [
+   "KARATE_CHOP",
+   "CLOSE_COMBAT",
+   "NIGHT_SLASH"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 19,
+  "label": "Pangoro",
+  "w": 724,
+  "rating": 724
+ },
+ {
+  "id": "kingdra_shadow",
+  "moves": [
+   "DRAGON_BREATH",
+   "SURF",
+   "SWIFT"
+  ],
+  "ivs": [
+   5,
+   15,
+   12
+  ],
+  "level": 21,
+  "label": "Kingdra (Shadow)",
+  "w": 721,
+  "rating": 721
+ },
+ {
+  "id": "hydreigon_shadow",
+  "moves": [
+   "DRAGON_BREATH",
+   "BRUTAL_SWING",
+   "FLY"
+  ],
+  "ivs": [
+   7,
+   14,
+   14
+  ],
+  "level": 15,
+  "label": "Hydreigon (Shadow)",
+  "w": 715,
+  "rating": 715
+ },
+ {
+  "id": "dragonair_shadow",
+  "moves": [
+   "DRAGON_BREATH",
+   "WRAP",
+   "AQUA_TAIL"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 33,
+  "label": "Dragonair (Shadow)",
+  "w": 715,
+  "rating": 715
+ },
+ {
+  "id": "togedemaru",
+  "moves": [
+   "THUNDER_SHOCK",
+   "FELL_STINGER",
+   "WILD_CHARGE"
+  ],
+  "ivs": [
+   6,
+   14,
+   15
+  ],
+  "level": 25.5,
+  "label": "Togedemaru",
+  "w": 714,
+  "rating": 714
+ },
+ {
+  "id": "melmetal",
+  "moves": [
+   "THUNDER_SHOCK",
+   "DOUBLE_IRON_BASH",
+   "DYNAMIC_PUNCH"
+  ],
+  "ivs": [
+   4,
+   10,
+   14
+  ],
+  "level": 15.5,
+  "label": "Melmetal",
+  "w": 712,
+  "rating": 712
+ },
+ {
+  "id": "cramorant",
+  "moves": [
+   "PECK",
+   "DIVE",
+   "FLY"
+  ],
+  "ivs": [
+   5,
+   15,
+   13
+  ],
+  "level": 26,
+  "label": "Cramorant",
+  "w": 710,
+  "rating": 710
+ },
+ {
+  "id": "corviknight_shadow",
+  "moves": [
+   "SAND_ATTACK",
+   "AIR_CUTTER",
+   "IRON_HEAD"
+  ],
+  "ivs": [
+   4,
+   12,
+   14
+  ],
+  "level": 23,
+  "label": "Corviknight (Shadow)",
+  "w": 710,
+  "rating": 710
+ },
+ {
+  "id": "kingdra",
+  "moves": [
+   "DRAGON_BREATH",
+   "SURF",
+   "SWIFT"
+  ],
+  "ivs": [
+   5,
+   15,
+   12
+  ],
+  "level": 21,
+  "label": "Kingdra",
+  "w": 705,
+  "rating": 705
+ },
+ {
+  "id": "sableye_mega",
+  "moves": [
+   "SHADOW_CLAW",
+   "FOUL_PLAY",
+   "DAZZLING_GLEAM"
+  ],
+  "ivs": [
+   4,
+   13,
+   15
+  ],
+  "level": 29,
+  "label": "Sableye (Mega)",
+  "w": 704,
+  "rating": 704
+ },
+ {
+  "id": "hydreigon",
+  "moves": [
+   "DRAGON_BREATH",
+   "BRUTAL_SWING",
+   "FLY"
+  ],
+  "ivs": [
+   7,
+   14,
+   14
+  ],
+  "level": 15,
+  "label": "Hydreigon",
+  "w": 704,
+  "rating": 704
+ },
+ {
+  "id": "corviknight",
+  "moves": [
+   "SAND_ATTACK",
+   "AIR_CUTTER",
+   "IRON_HEAD"
+  ],
+  "ivs": [
+   4,
+   12,
+   14
+  ],
+  "level": 23,
+  "label": "Corviknight",
+  "w": 703,
+  "rating": 703
+ },
+ {
+  "id": "tinkaton",
+  "moves": [
+   "FAIRY_WIND",
+   "GIGATON_HAMMER",
+   "BULLDOZE"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 25,
+  "label": "Tinkaton",
+  "w": 699,
+  "rating": 699
+ },
+ {
+  "id": "regidrago",
+  "moves": [
+   "DRAGON_BREATH",
+   "DRAGON_ENERGY",
+   "VICE_GRIP"
+  ],
+  "ivs": [
+   2,
+   4,
+   4
+  ],
+  "level": 20,
+  "label": "Regidrago",
+  "w": 698,
+  "rating": 698
+ },
+ {
+  "id": "dragonair",
+  "moves": [
+   "DRAGON_BREATH",
+   "AQUA_TAIL",
+   "DRAGON_PULSE"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 33,
+  "label": "Dragonair",
+  "w": 697,
+  "rating": 697
+ },
+ {
+  "id": "mawile_shadow",
+  "moves": [
+   "FAIRY_WIND",
+   "VICE_GRIP",
+   "IRON_HEAD"
+  ],
+  "ivs": [
+   4,
+   13,
+   15
+  ],
+  "level": 39,
+  "label": "Mawile (Shadow)",
+  "w": 697,
+  "rating": 697
+ },
+ {
+  "id": "ninetales_shadow",
+  "moves": [
+   "EMBER",
+   "WEATHER_BALL_FIRE",
+   "ENERGY_BALL"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 24.5,
+  "label": "Ninetales (Shadow)",
+  "w": 696,
+  "rating": 696
+ },
+ {
+  "id": "malamar_mega",
+  "moves": [
+   "PSYWAVE",
+   "FOUL_PLAY",
+   "SUPER_POWER",
+   "PSYBEAM_PLUS"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 17.5,
+  "label": "Malamar (Mega)",
+  "w": 695,
+  "rating": 695
+ },
+ {
+  "id": "malamar",
+  "moves": [
+   "PSYWAVE",
+   "SUPER_POWER",
+   "FOUL_PLAY"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 23.5,
+  "label": "Malamar",
+  "w": 695,
+  "rating": 695
+ },
+ {
+  "id": "machoke_shadow",
+  "moves": [
+   "KARATE_CHOP",
+   "CROSS_CHOP",
+   "DYNAMIC_PUNCH"
+  ],
+  "ivs": [
+   4,
+   14,
+   15
+  ],
+  "level": 27.5,
+  "label": "Machoke (Shadow)",
+  "w": 691,
+  "rating": 691
+ },
+ {
+  "id": "morpeko_full_belly",
+  "moves": [
+   "THUNDER_SHOCK",
+   "AURA_WHEEL_ELECTRIC",
+   "PSYCHIC_FANGS"
+  ],
+  "ivs": [
+   5,
+   14,
+   15
+  ],
+  "level": 28.5,
+  "label": "Morpeko (Hangry)",
+  "w": 690,
+  "rating": 690
+ },
+ {
+  "id": "pelipper",
+  "moves": [
+   "WING_ATTACK",
+   "WEATHER_BALL_WATER",
+   "HURRICANE"
+  ],
+  "ivs": [
+   6,
+   15,
+   14
+  ],
+  "level": 26,
+  "label": "Pelipper",
+  "w": 690,
+  "rating": 690
+ },
+ {
+  "id": "greninja_shadow",
+  "moves": [
+   "WATER_SHURIKEN",
+   "HYDRO_CANNON",
+   "BRUTAL_SWING"
+  ],
+  "ivs": [
+   5,
+   12,
+   12
+  ],
+  "level": 21,
+  "label": "Greninja (Shadow)",
+  "w": 688,
+  "rating": 688
+ },
+ {
+  "id": "metang",
+  "moves": [
+   "FURY_CUTTER",
+   "PSYSHOCK",
+   "GYRO_BALL"
+  ],
+  "ivs": [
+   4,
+   14,
+   14
+  ],
+  "level": 36,
+  "label": "Metang",
+  "w": 688,
+  "rating": 688
+ },
+ {
+  "id": "annihilape",
+  "moves": [
+   "LOW_KICK",
+   "RAGE_FIST",
+   "ICE_PUNCH"
+  ],
+  "ivs": [
+   4,
+   13,
+   13
+  ],
+  "level": 17,
+  "label": "Annihilape",
+  "w": 687,
+  "rating": 687
+ },
+ {
+  "id": "lunatone",
+  "moves": [
+   "PSYWAVE",
+   "WEATHER_BALL_ICE",
+   "ROCK_SLIDE"
+  ],
+  "ivs": [
+   4,
+   13,
+   15
+  ],
+  "level": 24,
+  "label": "Lunatone",
+  "w": 686,
+  "rating": 686
+ },
+ {
+  "id": "drapion_shadow",
+  "moves": [
+   "POISON_STING",
+   "CRUNCH",
+   "AQUA_TAIL"
+  ],
+  "ivs": [
+   6,
+   14,
+   15
+  ],
+  "level": 22.5,
+  "label": "Drapion (Shadow)",
+  "w": 685,
+  "rating": 685
+ },
+ {
+  "id": "metang_shadow",
+  "moves": [
+   "FURY_CUTTER",
+   "PSYSHOCK",
+   "GYRO_BALL"
+  ],
+  "ivs": [
+   4,
+   14,
+   14
+  ],
+  "level": 36,
+  "label": "Metang (Shadow)",
+  "w": 685,
+  "rating": 685
+ },
+ {
+  "id": "quagsire_shadow",
+  "moves": [
+   "MUD_SHOT",
+   "AQUA_TAIL",
+   "STONE_EDGE"
+  ],
+  "ivs": [
+   4,
+   15,
+   10
+  ],
+  "level": 28.5,
+  "label": "Quagsire (Shadow)",
+  "w": 684,
+  "rating": 684
+ },
+ {
+  "id": "annihilape_shadow",
+  "moves": [
+   "LOW_KICK",
+   "RAGE_FIST",
+   "ICE_PUNCH"
+  ],
+  "ivs": [
+   4,
+   13,
+   13
+  ],
+  "level": 17,
+  "label": "Annihilape (Shadow)",
+  "w": 683,
+  "rating": 683
+ },
+ {
+  "id": "aurorus",
+  "moves": [
+   "POWDER_SNOW",
+   "WEATHER_BALL_ICE",
+   "METEOR_BEAM"
+  ],
+  "ivs": [
+   4,
+   15,
+   10
+  ],
+  "level": 20,
+  "label": "Aurorus",
+  "w": 682,
+  "rating": 682
+ },
+ {
+  "id": "machamp_shadow",
+  "moves": [
+   "KARATE_CHOP",
+   "CROSS_CHOP",
+   "ROCK_SLIDE"
+  ],
+  "ivs": [
+   5,
+   15,
+   12
+  ],
+  "level": 18,
+  "label": "Machamp (Shadow)",
+  "w": 682,
+  "rating": 682
+ },
+ {
+  "id": "blaziken_shadow",
+  "moves": [
+   "EMBER",
+   "AURA_SPHERE",
+   "BLAZE_KICK"
+  ],
+  "ivs": [
+   4,
+   13,
+   12
+  ],
+  "level": 19.5,
+  "label": "Blaziken (Shadow)",
+  "w": 682,
+  "rating": 682
+ },
+ {
+  "id": "toxtricity",
+  "moves": [
+   "ACID",
+   "WILD_CHARGE",
+   "SWIFT"
+  ],
+  "ivs": [
+   4,
+   14,
+   10
+  ],
+  "level": 21.5,
+  "label": "Toxtricity",
+  "w": 682,
+  "rating": 682
+ },
+ {
+  "id": "gyarados_shadow",
+  "moves": [
+   "DRAGON_BREATH",
+   "AQUA_TAIL",
+   "TWISTER"
+  ],
+  "ivs": [
+   4,
+   14,
+   7
+  ],
+  "level": 16.5,
+  "label": "Gyarados (Shadow)",
+  "w": 682,
+  "rating": 682
+ },
+ {
+  "id": "medicham",
+  "moves": [
+   "PSYCHO_CUT",
+   "ICE_PUNCH",
+   "DYNAMIC_PUNCH"
+  ],
+  "ivs": [
+   7,
+   15,
+   14
+  ],
+  "level": 49,
+  "label": "Medicham",
+  "w": 681,
+  "rating": 681
+ }
+]

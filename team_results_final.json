@@ -1,0 +1,392 @@
+[
+ {
+  "threatScore": 152.66666666666666,
+  "team": [
+   "Mimikyu",
+   "Cradily",
+   "Talonflame"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Corviknight(216)",
+   "Mimikyu(200)"
+  ]
+ },
+ {
+  "threatScore": 155.60256410256412,
+  "team": [
+   "Clodsire",
+   "Stunfisk",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Melmetal(249)",
+   "Mega Sableye(245)",
+   "Florges(242)"
+  ]
+ },
+ {
+  "threatScore": 155.89743589743588,
+  "team": [
+   "Mimikyu",
+   "Cradily",
+   "Umbreon"
+  ],
+  "worst": [
+   "Dunsparce(226)",
+   "Sh Ninetales(216)",
+   "Azumarill(216)"
+  ]
+ },
+ {
+  "threatScore": 155.94871794871796,
+  "team": [
+   "Mimikyu",
+   "Azumarill",
+   "Cradily"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Corviknight(216)",
+   "A-Marowak(200)"
+  ]
+ },
+ {
+  "threatScore": 158.15384615384616,
+  "team": [
+   "Cradily",
+   "Clodsire",
+   "Stunfisk"
+  ],
+  "worst": [
+   "Melmetal(249)",
+   "Mimikyu(216)",
+   "Corviknight(214)"
+  ]
+ },
+ {
+  "threatScore": 158.66666666666666,
+  "team": [
+   "Mimikyu",
+   "Cradily",
+   "Stunfisk"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Altaria(236)",
+   "Mega Sableye(216)"
+  ]
+ },
+ {
+  "threatScore": 158.73076923076923,
+  "team": [
+   "Mimikyu",
+   "Cradily",
+   "Lanturn"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Stunfisk(231)",
+   "Altaria(216)"
+  ]
+ },
+ {
+  "threatScore": 159.10256410256412,
+  "team": [
+   "Cradily",
+   "Clodsire",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Melmetal(249)",
+   "Araquanid(216)",
+   "Mantine(209)"
+  ]
+ },
+ {
+  "threatScore": 159.32051282051282,
+  "team": [
+   "Mimikyu",
+   "Cradily",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Altaria(236)",
+   "Corviknight(216)"
+  ]
+ },
+ {
+  "threatScore": 160.1153846153846,
+  "team": [
+   "Cradily",
+   "Clodsire",
+   "Talonflame"
+  ],
+  "worst": [
+   "Melmetal(249)",
+   "Clodsire(216)",
+   "Corviknight(209)"
+  ]
+ },
+ {
+  "threatScore": 160.12820512820514,
+  "team": [
+   "Cradily",
+   "Dunsparce",
+   "Talonflame"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Dunsparce(216)",
+   "Altaria(209)"
+  ]
+ },
+ {
+  "threatScore": 160.16666666666666,
+  "team": [
+   "Mimikyu",
+   "Cradily",
+   "Pelipper"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Mega Sableye(244)",
+   "Sh Ninetales(216)"
+  ]
+ },
+ {
+  "threatScore": 160.57692307692307,
+  "team": [
+   "Mimikyu",
+   "Cradily",
+   "Mandibuzz"
+  ],
+  "worst": [
+   "Altaria(236)",
+   "Stunfisk(225)",
+   "Tinkaton(216)"
+  ]
+ },
+ {
+  "threatScore": 160.62820512820514,
+  "team": [
+   "Mimikyu",
+   "Malamar",
+   "Cradily"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Altaria(216)",
+   "Corviknight(216)"
+  ]
+ },
+ {
+  "threatScore": 161.0897435897436,
+  "team": [
+   "Mimikyu",
+   "Stunfisk",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Mega Sableye(250)",
+   "Altaria(245)"
+  ]
+ },
+ {
+  "threatScore": 161.55128205128204,
+  "team": [
+   "Altaria",
+   "Mimikyu",
+   "Cradily"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Sh Ninetales(216)",
+   "Florges(214)"
+  ]
+ },
+ {
+  "threatScore": 161.78205128205127,
+  "team": [
+   "Mimikyu",
+   "Umbreon",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Mega Sableye(243)",
+   "Dunsparce(239)",
+   "Morpeko(226)"
+  ]
+ },
+ {
+  "threatScore": 162.35897435897436,
+  "team": [
+   "Mimikyu",
+   "Azumarill",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Mega Sableye(250)",
+   "Stunfisk(227)"
+  ]
+ },
+ {
+  "threatScore": 162.5897435897436,
+  "team": [
+   "Mimikyu",
+   "Azumarill",
+   "Excadrill"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Mega Sableye(250)",
+   "Sh Ninetales(243)"
+  ]
+ },
+ {
+  "threatScore": 162.6153846153846,
+  "team": [
+   "Mimikyu",
+   "Lanturn",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Mega Sableye(245)",
+   "Altaria(243)"
+  ]
+ },
+ {
+  "threatScore": 163.25641025641025,
+  "team": [
+   "Mimikyu",
+   "Excadrill",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Mega Sableye(250)",
+   "Altaria(245)"
+  ]
+ },
+ {
+  "threatScore": 163.26923076923077,
+  "team": [
+   "Mimikyu",
+   "Azumarill",
+   "Clodsire"
+  ],
+  "worst": [
+   "Tinkaton(249)",
+   "Mimikyu(227)",
+   "Mega Sableye(209)"
+  ]
+ },
+ {
+  "threatScore": 163.55128205128204,
+  "team": [
+   "Mimikyu",
+   "Cradily",
+   "Jellicent"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Altaria(237)",
+   "Mega Sableye(216)"
+  ]
+ },
+ {
+  "threatScore": 163.62820512820514,
+  "team": [
+   "Azumarill",
+   "Cradily",
+   "Clodsire"
+  ],
+  "worst": [
+   "Melmetal(249)",
+   "A-Marowak(209)",
+   "Tinkaton(198)"
+  ]
+ },
+ {
+  "threatScore": 163.84615384615384,
+  "team": [
+   "Mimikyu",
+   "Clodsire",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Tinkaton(249)",
+   "Mega Sableye(245)",
+   "Melmetal(245)"
+  ]
+ },
+ {
+  "threatScore": 164,
+  "team": [
+   "Cradily",
+   "Clodsire",
+   "Lanturn"
+  ],
+  "worst": [
+   "Melmetal(249)",
+   "Florges(216)",
+   "Stunfisk(214)"
+  ]
+ },
+ {
+  "threatScore": 164.07692307692307,
+  "team": [
+   "Mimikyu",
+   "Dunsparce",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Mega Sableye(243)",
+   "Melmetal(236)",
+   "Florges(226)"
+  ]
+ },
+ {
+  "threatScore": 164.2948717948718,
+  "team": [
+   "Mimikyu",
+   "Talonflame",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Mega Sableye(250)",
+   "Melmetal(245)",
+   "Altaria(245)"
+  ]
+ },
+ {
+  "threatScore": 164.32051282051282,
+  "team": [
+   "Clodsire",
+   "Lanturn",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Melmetal(249)",
+   "Mega Sableye(245)",
+   "Dunsparce(242)"
+  ]
+ },
+ {
+  "threatScore": 164.47435897435898,
+  "team": [
+   "Mimikyu",
+   "Pelipper",
+   "Abomasnow"
+  ],
+  "worst": [
+   "Melmetal(250)",
+   "Altaria(245)",
+   "Mega Sableye(245)"
+  ]
+ }
+]

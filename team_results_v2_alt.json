@@ -1,0 +1,518 @@
+{
+ "meta": "live mega 1500 overall, top40 by rating",
+ "shields": "0/1/2 @ .25/.5/.25",
+ "top": [
+  {
+   "score": 166.3364509106627,
+   "team": [
+    "Quagsire (1499)",
+    "Lanturn (1482) shiny",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(244)",
+    "Pangoro (Shadow)(221)",
+    "Quagsire (Shadow)(221)"
+   ],
+   "specs": [
+    {
+     "id": "quagsire",
+     "moves": [
+      "MUD_SHOT",
+      "AQUA_TAIL",
+      "MUD_BOMB"
+     ],
+     "ivs": [
+      0,
+      15,
+      14
+     ],
+     "level": 29
+    },
+    {
+     "id": "lanturn",
+     "moves": [
+      "SPARK",
+      "THUNDERBOLT",
+      "SURF"
+     ],
+     "ivs": [
+      8,
+      6,
+      11
+     ],
+     "level": 27
+    },
+    {
+     "id": "azumarill",
+     "moves": [
+      "BUBBLE",
+      "PLAY_ROUGH",
+      "ICE_BEAM"
+     ],
+     "ivs": [
+      0,
+      15,
+      15
+     ],
+     "level": 44.5
+    }
+   ],
+   "lead": "azumarill",
+   "leadScores": [
+    "azumarill:307",
+    "quagsire:337",
+    "lanturn:385"
+   ]
+  },
+  {
+   "score": 172.00892454294112,
+   "team": [
+    "Quagsire (1499)",
+    "Talonflame (1497)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(519)",
+    "Pangoro (Shadow)(249)",
+    "Doublade(244)"
+   ],
+   "specs": [
+    {
+     "id": "quagsire",
+     "moves": [
+      "MUD_SHOT",
+      "AQUA_TAIL",
+      "MUD_BOMB"
+     ],
+     "ivs": [
+      0,
+      15,
+      14
+     ],
+     "level": 29
+    },
+    {
+     "id": "talonflame",
+     "moves": [
+      "INCINERATE",
+      "FLAME_CHARGE",
+      "FLY"
+     ],
+     "ivs": [
+      2,
+      15,
+      15
+     ],
+     "level": 25.5
+    },
+    {
+     "id": "azumarill",
+     "moves": [
+      "BUBBLE",
+      "PLAY_ROUGH",
+      "ICE_BEAM"
+     ],
+     "ivs": [
+      0,
+      15,
+      15
+     ],
+     "level": 44.5
+    }
+   ],
+   "lead": "azumarill",
+   "leadScores": [
+    "azumarill:306",
+    "quagsire:338",
+    "talonflame:373"
+   ]
+  },
+  {
+   "score": 174.11615912590912,
+   "team": [
+    "Altaria (1499)",
+    "Quagsire (1499)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(512)",
+    "Corviknight(249)",
+    "Pangoro (Shadow)(244)"
+   ],
+   "specs": [
+    {
+     "id": "altaria",
+     "moves": [
+      "DRAGON_BREATH",
+      "FLAMETHROWER",
+      "SKY_ATTACK"
+     ],
+     "ivs": [
+      0,
+      15,
+      8
+     ],
+     "level": 29.5
+    },
+    {
+     "id": "quagsire",
+     "moves": [
+      "MUD_SHOT",
+      "AQUA_TAIL",
+      "MUD_BOMB"
+     ],
+     "ivs": [
+      0,
+      15,
+      14
+     ],
+     "level": 29
+    },
+    {
+     "id": "azumarill",
+     "moves": [
+      "BUBBLE",
+      "PLAY_ROUGH",
+      "ICE_BEAM"
+     ],
+     "ivs": [
+      0,
+      15,
+      15
+     ],
+     "level": 44.5
+    }
+   ],
+   "lead": "azumarill",
+   "leadScores": [
+    "azumarill:308",
+    "quagsire:337",
+    "altaria:341"
+   ]
+  },
+  {
+   "score": 177.33130273304027,
+   "team": [
+    "Talonflame (1497)",
+    "Clodsire (1482)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(546)",
+    "Hydreigon (Shadow)(229)",
+    "Corviknight(228)"
+   ],
+   "specs": [
+    {
+     "id": "talonflame",
+     "moves": [
+      "INCINERATE",
+      "FLAME_CHARGE",
+      "FLY"
+     ],
+     "ivs": [
+      2,
+      15,
+      15
+     ],
+     "level": 25.5
+    },
+    {
+     "id": "clodsire",
+     "moves": [
+      "POISON_STING",
+      "EARTHQUAKE",
+      "STONE_EDGE"
+     ],
+     "ivs": [
+      14,
+      12,
+      15
+     ],
+     "level": 27
+    },
+    {
+     "id": "azumarill",
+     "moves": [
+      "BUBBLE",
+      "PLAY_ROUGH",
+      "ICE_BEAM"
+     ],
+     "ivs": [
+      0,
+      15,
+      15
+     ],
+     "level": 44.5
+    }
+   ],
+   "lead": "azumarill",
+   "leadScores": [
+    "azumarill:306",
+    "clodsire:333",
+    "talonflame:373"
+   ]
+  },
+  {
+   "score": 181.0624179653617,
+   "team": [
+    "Quagsire (1499)",
+    "Jellicent (1492)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Pangoro (Shadow)(522)",
+    "Mimikyu (Busted)(511)",
+    "Doublade(249)"
+   ],
+   "specs": [
+    {
+     "id": "quagsire",
+     "moves": [
+      "MUD_SHOT",
+      "AQUA_TAIL",
+      "MUD_BOMB"
+     ],
+     "ivs": [
+      0,
+      15,
+      14
+     ],
+     "level": 29
+    },
+    {
+     "id": "jellicent",
+     "moves": [
+      "HEX",
+      "SURF",
+      "SHADOW_BALL"
+     ],
+     "ivs": [
+      11,
+      15,
+      12
+     ],
+     "level": 23
+    },
+    {
+     "id": "azumarill",
+     "moves": [
+      "BUBBLE",
+      "PLAY_ROUGH",
+      "ICE_BEAM"
+     ],
+     "ivs": [
+      0,
+      15,
+      15
+     ],
+     "level": 44.5
+    }
+   ],
+   "lead": "azumarill",
+   "leadScores": [
+    "azumarill:308",
+    "quagsire:337",
+    "jellicent:366"
+   ]
+  }
+ ],
+ "top15": [
+  {
+   "score": 166.3364509106627,
+   "team": [
+    "Quagsire (1499)",
+    "Lanturn (1482) shiny",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(244)",
+    "Pangoro (Shadow)(221)",
+    "Quagsire (Shadow)(221)"
+   ]
+  },
+  {
+   "score": 172.00892454294112,
+   "team": [
+    "Quagsire (1499)",
+    "Talonflame (1497)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(519)",
+    "Pangoro (Shadow)(249)",
+    "Doublade(244)"
+   ]
+  },
+  {
+   "score": 174.11615912590912,
+   "team": [
+    "Altaria (1499)",
+    "Quagsire (1499)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(512)",
+    "Corviknight(249)",
+    "Pangoro (Shadow)(244)"
+   ]
+  },
+  {
+   "score": 177.33130273304027,
+   "team": [
+    "Talonflame (1497)",
+    "Clodsire (1482)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(546)",
+    "Hydreigon (Shadow)(229)",
+    "Corviknight(228)"
+   ]
+  },
+  {
+   "score": 181.0624179653617,
+   "team": [
+    "Quagsire (1499)",
+    "Jellicent (1492)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Pangoro (Shadow)(522)",
+    "Mimikyu (Busted)(511)",
+    "Doublade(249)"
+   ]
+  },
+  {
+   "score": 182.12890050941874,
+   "team": [
+    "Talonflame (1497)",
+    "Abomasnow (1484) hundo",
+    "Clodsire (1482)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(546)",
+    "Cramorant(243)",
+    "Pangoro (Shadow)(236)"
+   ]
+  },
+  {
+   "score": 185.3320097624898,
+   "team": [
+    "Quagsire (1499)",
+    "Abomasnow (1484) hundo",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Sableye (Shadow)(532)",
+    "Mimikyu (Busted)(512)",
+    "Pangoro (Shadow)(509)"
+   ]
+  },
+  {
+   "score": 185.67325515126504,
+   "team": [
+    "Altaria (1499)",
+    "Clodsire (1482)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(558)",
+    "Pangoro (Shadow)(229)",
+    "Kingdra (Shadow)(221)"
+   ]
+  },
+  {
+   "score": 186.39119457055318,
+   "team": [
+    "Jellicent (1492)",
+    "Clodsire (1482)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(557)",
+    "Pangoro (Shadow)(522)",
+    "Sableye (Shadow)(240)"
+   ]
+  },
+  {
+   "score": 187.35837236203028,
+   "team": [
+    "Quagsire (1499)",
+    "Azumarill (1481)",
+    "Empoleon (1478) shiny"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(534)",
+    "Pangoro (Shadow)(509)",
+    "Sableye (Shadow)(506)"
+   ]
+  },
+  {
+   "score": 188.13932761574398,
+   "team": [
+    "Quagsire (1499)",
+    "Clodsire (1482)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(534)",
+    "Pangoro (Shadow)(508)",
+    "Sableye (Shadow)(244)"
+   ]
+  },
+  {
+   "score": 189.5528354500097,
+   "team": [
+    "Talonflame (1497)",
+    "Abomasnow (1484) hundo",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(546)",
+    "Pangoro (Shadow)(541)",
+    "Doublade(512)"
+   ]
+  },
+  {
+   "score": 189.7732121194021,
+   "team": [
+    "Lanturn (1482) shiny",
+    "Clodsire (1482)",
+    "Azumarill (1481)"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(556)",
+    "Pangoro (Shadow)(508)",
+    "Pangoro(221)"
+   ]
+  },
+  {
+   "score": 190.44500647712778,
+   "team": [
+    "Clodsire (1482)",
+    "Azumarill (1481)",
+    "Empoleon (1478) shiny"
+   ],
+   "worst": [
+    "Mimikyu (Busted)(542)",
+    "Pangoro (Shadow)(535)",
+    "Sableye (Shadow)(506)"
+   ]
+  },
+  {
+   "score": 193.50738184466064,
+   "team": [
+    "Quagsire (1499)",
+    "Talonflame (1497)",
+    "Abomasnow (1484) hundo"
+   ],
+   "worst": [
+    "Pangoro (Shadow)(540)",
+    "Mimikyu (Busted)(524)",
+    "Sableye (Shadow)(512)"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,317 @@
+[
+ {
+  "score": 0.9743589743589743,
+  "team": [
+   "Clodsire",
+   "Stunfisk",
+   "Umbreon"
+  ],
+  "uncovered": []
+ },
+ {
+  "score": 0.9658119658119659,
+  "team": [
+   "Whiscash",
+   "Clodsire",
+   "Umbreon"
+  ],
+  "uncovered": []
+ },
+ {
+  "score": 0.9572649572649573,
+  "team": [
+   "Corviknight",
+   "Clodsire",
+   "Dunsparce"
+  ],
+  "uncovered": []
+ },
+ {
+  "score": 0.9572649572649573,
+  "team": [
+   "Cradily",
+   "Stunfisk",
+   "Umbreon"
+  ],
+  "uncovered": [
+   "Cradily"
+  ]
+ },
+ {
+  "score": 0.9572649572649572,
+  "team": [
+   "Azumarill",
+   "Clodsire",
+   "Stunfisk"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9572649572649572,
+  "team": [
+   "Cradily",
+   "Clodsire",
+   "Stunfisk"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9487179487179489,
+  "team": [
+   "Stunfisk",
+   "Talonflame",
+   "Umbreon"
+  ],
+  "uncovered": [
+   "Cradily"
+  ]
+ },
+ {
+  "score": 0.9487179487179487,
+  "team": [
+   "Mimikyu",
+   "Clodsire",
+   "Umbreon"
+  ],
+  "uncovered": []
+ },
+ {
+  "score": 0.9487179487179487,
+  "team": [
+   "Corviknight",
+   "Clodsire",
+   "Abomasnow"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9487179487179487,
+  "team": [
+   "Cradily",
+   "Mandibuzz",
+   "Stunfisk"
+  ],
+  "uncovered": [
+   "Cradily"
+  ]
+ },
+ {
+  "score": 0.9487179487179487,
+  "team": [
+   "Cradily",
+   "Excadrill",
+   "Stunfisk"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9487179487179487,
+  "team": [
+   "Cradily",
+   "Dunsparce",
+   "Stunfisk"
+  ],
+  "uncovered": [
+   "Cradily"
+  ]
+ },
+ {
+  "score": 0.9487179487179487,
+  "team": [
+   "Clodsire",
+   "Excadrill",
+   "Umbreon"
+  ],
+  "uncovered": []
+ },
+ {
+  "score": 0.9487179487179486,
+  "team": [
+   "Cradily",
+   "Stunfisk",
+   "Abomasnow"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9401709401709403,
+  "team": [
+   "Mimikyu",
+   "Cradily",
+   "Stunfisk"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9401709401709403,
+  "team": [
+   "Corviknight",
+   "Azumarill",
+   "Clodsire"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9401709401709403,
+  "team": [
+   "Corviknight",
+   "Cradily",
+   "Clodsire"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9401709401709403,
+  "team": [
+   "Corviknight",
+   "Clodsire",
+   "Umbreon"
+  ],
+  "uncovered": []
+ },
+ {
+  "score": 0.9401709401709403,
+  "team": [
+   "Azumarill",
+   "Dunsparce",
+   "Stunfisk"
+  ],
+  "uncovered": [
+   "Cradily"
+  ]
+ },
+ {
+  "score": 0.9401709401709403,
+  "team": [
+   "Clodsire",
+   "Umbreon",
+   "Abomasnow"
+  ],
+  "uncovered": []
+ },
+ {
+  "score": 0.9401709401709403,
+  "team": [
+   "Clodsire",
+   "Umbreon",
+   "Jellicent"
+  ],
+  "uncovered": []
+ },
+ {
+  "score": 0.9401709401709402,
+  "team": [
+   "Corviknight",
+   "Cradily",
+   "Stunfisk"
+  ],
+  "uncovered": [
+   "Mimikyu",
+   "Cradily"
+  ]
+ },
+ {
+  "score": 0.9401709401709402,
+  "team": [
+   "Corviknight",
+   "Clodsire",
+   "Stunfisk"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9401709401709402,
+  "team": [
+   "Corviknight",
+   "Stunfisk",
+   "Talonflame"
+  ],
+  "uncovered": [
+   "Mimikyu",
+   "Cradily"
+  ]
+ },
+ {
+  "score": 0.9401709401709402,
+  "team": [
+   "Cradily",
+   "Stunfisk",
+   "Jellicent"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9316239316239316,
+  "team": [
+   "Malamar",
+   "Cradily",
+   "Stunfisk"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9316239316239316,
+  "team": [
+   "Cradily",
+   "Excadrill",
+   "Talonflame"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9316239316239316,
+  "team": [
+   "Cradily",
+   "Talonflame",
+   "Abomasnow"
+  ],
+  "uncovered": [
+   "Mimikyu"
+  ]
+ },
+ {
+  "score": 0.9316239316239316,
+  "team": [
+   "Clodsire",
+   "Dunsparce",
+   "Umbreon"
+  ],
+  "uncovered": []
+ },
+ {
+  "score": 0.9316239316239315,
+  "team": [
+   "Azumarill",
+   "Pelipper",
+   "Stunfisk"
+  ],
+  "uncovered": [
+   "Mimikyu",
+   "Cradily"
+  ]
+ }
+]
