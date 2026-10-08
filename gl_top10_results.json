@@ -1,0 +1,5586 @@
+[
+ {
+  "name": "Ninetales",
+  "form": "",
+  "sid": "ninetales",
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "1495",
+  "cp_gl": 1495,
+  "level_gl": 25,
+  "caught": "7/30/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Muk",
+  "form": "",
+  "sid": "muk",
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "2500",
+  "cp_gl": 1496,
+  "level_gl": 20.5,
+  "caught": "4/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Oinkologne",
+  "form": "",
+  "sid": "oinkologne",
+  "ivs": [
+   0,
+   11,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "1499",
+  "cp_gl": 1499,
+  "level_gl": 22,
+  "caught": "8/1/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Abomasnow",
+  "form": "",
+  "sid": "abomasnow",
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "1494",
+  "cp_gl": 1494,
+  "level_gl": 24,
+  "caught": "8/6/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Marowak",
+  "form": "",
+  "sid": "marowak",
+  "ivs": [
+   0,
+   14,
+   14
+  ],
+  "rank": 1,
+  "cp_now": "1500",
+  "cp_gl": 1500,
+  "level_gl": 33.5,
+  "caught": "6/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Seismitoad",
+  "form": "",
+  "sid": "seismitoad",
+  "ivs": [
+   1,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "1500",
+  "cp_gl": 1500,
+  "level_gl": 22,
+  "caught": "4/25/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Ninetales",
+  "form": "Alolan (58)",
+  "sid": "ninetales_alolan",
+  "ivs": [
+   0,
+   14,
+   12
+  ],
+  "rank": 1,
+  "cp_now": "1200",
+  "cp_gl": 1500,
+  "level_gl": 25,
+  "caught": "8/5/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sudowoodo",
+  "form": "",
+  "sid": "sudowoodo",
+  "ivs": [
+   0,
+   14,
+   11
+  ],
+  "rank": 1,
+  "cp_now": "1500",
+  "cp_gl": 1500,
+  "level_gl": 27,
+  "caught": "7/28/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Cradily",
+  "form": "",
+  "sid": "cradily",
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "1494",
+  "cp_gl": 1494,
+  "level_gl": 26,
+  "caught": "6/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Stunfisk",
+  "form": "",
+  "sid": "stunfisk",
+  "ivs": [
+   0,
+   12,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "1498",
+  "cp_gl": 1498,
+  "level_gl": 27,
+  "caught": "5/30/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Dedenne",
+  "form": "",
+  "sid": "dedenne",
+  "ivs": [
+   0,
+   14,
+   12
+  ],
+  "rank": 1,
+  "cp_now": "1500",
+  "cp_gl": 1500,
+  "level_gl": 33,
+  "caught": "7/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Azumarill",
+  "form": "",
+  "sid": "azumarill",
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "1499",
+  "cp_gl": 1499,
+  "level_gl": 45.5,
+  "caught": "7/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Wigglytuff",
+  "form": "",
+  "sid": "wigglytuff",
+  "ivs": [
+   0,
+   15,
+   12
+  ],
+  "rank": 1,
+  "cp_now": "1499",
+  "cp_gl": 1499,
+  "level_gl": 30,
+  "caught": "7/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Clodsire",
+  "form": "",
+  "sid": "clodsire",
+  "ivs": [
+   0,
+   14,
+   13
+  ],
+  "rank": 1,
+  "cp_now": "1499",
+  "cp_gl": 1499,
+  "level_gl": 30.5,
+  "caught": "7/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Quagsire",
+  "form": "",
+  "sid": "quagsire",
+  "ivs": [
+   0,
+   15,
+   14
+  ],
+  "rank": 1,
+  "cp_now": "1499",
+  "cp_gl": 1499,
+  "level_gl": 29,
+  "caught": "8/1/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Lapras",
+  "form": "",
+  "sid": "lapras",
+  "ivs": [
+   0,
+   10,
+   14
+  ],
+  "rank": 1,
+  "cp_now": "1498",
+  "cp_gl": 1498,
+  "level_gl": 22,
+  "caught": "5/31/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pignite",
+  "form": "",
+  "sid": "pignite",
+  "ivs": [
+   0,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "1492",
+  "cp_gl": 1492,
+  "level_gl": 29.5,
+  "caught": "2/28/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Lileep",
+  "form": "",
+  "sid": "lileep",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "1451",
+  "cp_gl": 1478,
+  "level_gl": 51,
+  "caught": "1/8/2025",
+  "nickname": ""
+ },
+ {
+  "name": "Chansey",
+  "form": "",
+  "sid": "chansey",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "1147",
+  "cp_gl": 1436,
+  "level_gl": 51,
+  "caught": "11/9/2018",
+  "nickname": "Chansey \u00b9\u2070\u2070"
+ },
+ {
+  "name": "Spritzee",
+  "form": "",
+  "sid": "spritzee",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "608",
+  "cp_gl": 1432,
+  "level_gl": 51,
+  "caught": "2/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Oddish",
+  "form": "",
+  "sid": "oddish",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "1070",
+  "cp_gl": 1406,
+  "level_gl": 51,
+  "caught": "6/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Oddish",
+  "form": "",
+  "sid": "oddish",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "912",
+  "cp_gl": 1406,
+  "level_gl": 51,
+  "caught": "9/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Growlithe",
+  "form": "",
+  "sid": "growlithe",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "923",
+  "cp_gl": 1423,
+  "level_gl": 51,
+  "caught": "4/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bulbasaur",
+  "form": "",
+  "sid": "bulbasaur",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "987",
+  "cp_gl": 1275,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bulbasaur",
+  "form": "",
+  "sid": "bulbasaur",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "987",
+  "cp_gl": 1275,
+  "level_gl": 51,
+  "caught": "9/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bulbasaur",
+  "form": "",
+  "sid": "bulbasaur",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "184",
+  "cp_gl": 1275,
+  "level_gl": 51,
+  "caught": "2/23/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fuecoco",
+  "form": "",
+  "sid": "fuecoco",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "773",
+  "cp_gl": 1290,
+  "level_gl": 51,
+  "caught": "2/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fuecoco",
+  "form": "",
+  "sid": "fuecoco",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "451",
+  "cp_gl": 1290,
+  "level_gl": 51,
+  "caught": "4/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Mankey",
+  "form": "",
+  "sid": "mankey",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "665",
+  "cp_gl": 1333,
+  "level_gl": 51,
+  "caught": "5/25/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sandygast",
+  "form": "",
+  "sid": "sandygast",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "881",
+  "cp_gl": 1411,
+  "level_gl": 51,
+  "caught": "10/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Charmander",
+  "form": "",
+  "sid": "charmander",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "644",
+  "cp_gl": 1122,
+  "level_gl": 51,
+  "caught": "3/13/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Charmander",
+  "form": "",
+  "sid": "charmander",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "560",
+  "cp_gl": 1122,
+  "level_gl": 51,
+  "caught": "8/30/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Mareep",
+  "form": "",
+  "sid": "mareep",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "708",
+  "cp_gl": 1134,
+  "level_gl": 51,
+  "caught": "2/19/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Scorbunny",
+  "form": "",
+  "sid": "scorbunny",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "721",
+  "cp_gl": 1255,
+  "level_gl": 51,
+  "caught": "3/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Geodude",
+  "form": "Alolan (68)",
+  "sid": "geodude_alolan",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "776",
+  "cp_gl": 1480,
+  "level_gl": 51,
+  "caught": "5/29/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pidgeotto",
+  "form": "",
+  "sid": "pidgeotto",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "785",
+  "cp_gl": 1367,
+  "level_gl": 51,
+  "caught": "3/5/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pidgeotto",
+  "form": "",
+  "sid": "pidgeotto",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 1,
+  "cp_now": "196",
+  "cp_gl": 1363,
+  "level_gl": 51,
+  "caught": "2/25/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bellsprout",
+  "form": "",
+  "sid": "bellsprout",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "708",
+  "cp_gl": 1182,
+  "level_gl": 51,
+  "caught": "5/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pikachu",
+  "form": "Mystic Cap (3343)",
+  "sid": "pikachu",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "402",
+  "cp_gl": 1073,
+  "level_gl": 51,
+  "caught": "7/11/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Venonat",
+  "form": "",
+  "sid": "venonat",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "717",
+  "cp_gl": 1149,
+  "level_gl": 51,
+  "caught": "3/9/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Venonat",
+  "form": "",
+  "sid": "venonat",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "545",
+  "cp_gl": 1149,
+  "level_gl": 51,
+  "caught": "3/5/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Smoliv",
+  "form": "",
+  "sid": "smoliv",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "341",
+  "cp_gl": 977,
+  "level_gl": 51,
+  "caught": "5/29/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Smoliv",
+  "form": "",
+  "sid": "smoliv",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 1,
+  "cp_now": "340",
+  "cp_gl": 973,
+  "level_gl": 51,
+  "caught": "6/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Smoliv",
+  "form": "",
+  "sid": "smoliv",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "292",
+  "cp_gl": 977,
+  "level_gl": 51,
+  "caught": "5/19/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Smoliv",
+  "form": "",
+  "sid": "smoliv",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "268",
+  "cp_gl": 977,
+  "level_gl": 51,
+  "caught": "3/9/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Ditto",
+  "form": "",
+  "sid": "ditto",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "766",
+  "cp_gl": 952,
+  "level_gl": 51,
+  "caught": "1/19/2025",
+  "nickname": ""
+ },
+ {
+  "name": "Slugma",
+  "form": "",
+  "sid": "slugma",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "228",
+  "cp_gl": 1024,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fletchling",
+  "form": "",
+  "sid": "fletchling",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "526",
+  "cp_gl": 916,
+  "level_gl": 51,
+  "caught": "3/25/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fletchling",
+  "form": "",
+  "sid": "fletchling",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 1,
+  "cp_now": "296",
+  "cp_gl": 913,
+  "level_gl": 51,
+  "caught": "2/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Snivy",
+  "form": "",
+  "sid": "snivy",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 1,
+  "cp_now": "737",
+  "cp_gl": 968,
+  "level_gl": 51,
+  "caught": "2/27/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Chikorita",
+  "form": "",
+  "sid": "chikorita",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "534",
+  "cp_gl": 1070,
+  "level_gl": 51,
+  "caught": "9/21/2018",
+  "nickname": "Chikorita100"
+ },
+ {
+  "name": "Lillipup",
+  "form": "",
+  "sid": "lillipup",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "261",
+  "cp_gl": 1047,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sobble",
+  "form": "",
+  "sid": "sobble",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "627",
+  "cp_gl": 1255,
+  "level_gl": 51,
+  "caught": "8/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pidgey",
+  "form": "",
+  "sid": "pidgey",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "612",
+  "cp_gl": 778,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Nickit",
+  "form": "",
+  "sid": "nickit",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "224",
+  "cp_gl": 817,
+  "level_gl": 51,
+  "caught": "8/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Beldum",
+  "form": "",
+  "sid": "beldum",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "390",
+  "cp_gl": 1117,
+  "level_gl": 51,
+  "caught": "10/21/2018",
+  "nickname": "Beldum100"
+ },
+ {
+  "name": "Duskull",
+  "form": "",
+  "sid": "duskull",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "403",
+  "cp_gl": 808,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Greavard",
+  "form": "",
+  "sid": "greavard",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "551",
+  "cp_gl": 1163,
+  "level_gl": 51,
+  "caught": "3/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Shelmet",
+  "form": "",
+  "sid": "shelmet",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "213",
+  "cp_gl": 954,
+  "level_gl": 51,
+  "caught": "4/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Yamper",
+  "form": "",
+  "sid": "yamper",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "540",
+  "cp_gl": 901,
+  "level_gl": 51,
+  "caught": "3/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Noibat",
+  "form": "",
+  "sid": "noibat",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "533",
+  "cp_gl": 763,
+  "level_gl": 51,
+  "caught": "9/6/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Gimmighoul",
+  "form": "#3351",
+  "sid": "gimmighoul",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "410",
+  "cp_gl": 1263,
+  "level_gl": 51,
+  "caught": "7/29/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Geodude",
+  "form": "",
+  "sid": "geodude",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "517",
+  "cp_gl": 1480,
+  "level_gl": 51,
+  "caught": "3/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Hoppip",
+  "form": "",
+  "sid": "hoppip",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "205",
+  "cp_gl": 686,
+  "level_gl": 51,
+  "caught": "5/29/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Jigglypuff",
+  "form": "",
+  "sid": "jigglypuff",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 1,
+  "cp_now": "454",
+  "cp_gl": 827,
+  "level_gl": 51,
+  "caught": "3/6/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Venipede",
+  "form": "",
+  "sid": "venipede",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "282",
+  "cp_gl": 808,
+  "level_gl": 51,
+  "caught": "5/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Venipede",
+  "form": "",
+  "sid": "venipede",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 1,
+  "cp_now": "116",
+  "cp_gl": 805,
+  "level_gl": 51,
+  "caught": "8/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pawmi",
+  "form": "",
+  "sid": "pawmi",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "290",
+  "cp_gl": 728,
+  "level_gl": 51,
+  "caught": "6/1/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Weedle",
+  "form": "",
+  "sid": "weedle",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "195",
+  "cp_gl": 522,
+  "level_gl": 51,
+  "caught": "9/13/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Weedle",
+  "form": "",
+  "sid": "weedle",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "75",
+  "cp_gl": 522,
+  "level_gl": 51,
+  "caught": "9/13/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Seedot",
+  "form": "",
+  "sid": "seedot",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "393",
+  "cp_gl": 684,
+  "level_gl": 51,
+  "caught": "2/9/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Zigzagoon",
+  "form": "Galarian (946)",
+  "sid": "zigzagoon_galarian",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "363",
+  "cp_gl": 582,
+  "level_gl": 51,
+  "caught": "6/1/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Combee",
+  "form": "",
+  "sid": "combee",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 1,
+  "cp_now": "339",
+  "cp_gl": 566,
+  "level_gl": 51,
+  "caught": "6/7/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Granbull",
+  "form": "",
+  "sid": "granbull",
+  "ivs": [
+   1,
+   14,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "1500",
+  "cp_gl": 1500,
+  "level_gl": 22,
+  "caught": "5/7/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pelipper",
+  "form": "",
+  "sid": "pelipper",
+  "ivs": [
+   0,
+   13,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "1498",
+  "cp_gl": 1498,
+  "level_gl": 27,
+  "caught": "5/9/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Chansey",
+  "form": "",
+  "sid": "chansey",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "1092",
+  "cp_gl": 1434,
+  "level_gl": 51,
+  "caught": "1/12/2025",
+  "nickname": ""
+ },
+ {
+  "name": "Chansey",
+  "form": "",
+  "sid": "chansey",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "1074",
+  "cp_gl": 1434,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Murkrow",
+  "form": "",
+  "sid": "murkrow",
+  "ivs": [
+   1,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "1154",
+  "cp_gl": 1498,
+  "level_gl": 43,
+  "caught": "3/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Murkrow",
+  "form": "",
+  "sid": "murkrow",
+  "ivs": [
+   1,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "453",
+  "cp_gl": 1498,
+  "level_gl": 43,
+  "caught": "3/9/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Frigibax",
+  "form": "",
+  "sid": "frigibax",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "782",
+  "cp_gl": 1423,
+  "level_gl": 51,
+  "caught": "6/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Frigibax",
+  "form": "",
+  "sid": "frigibax",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "533",
+  "cp_gl": 1423,
+  "level_gl": 51,
+  "caught": "6/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Wartortle",
+  "form": "",
+  "sid": "wartortle",
+  "ivs": [
+   0,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "58",
+  "cp_gl": 1499,
+  "level_gl": 50,
+  "caught": "3/13/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Chinchou",
+  "form": "",
+  "sid": "chinchou",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "1037",
+  "cp_gl": 1278,
+  "level_gl": 51,
+  "caught": "4/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Machop",
+  "form": "",
+  "sid": "machop",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "546",
+  "cp_gl": 1459,
+  "level_gl": 51,
+  "caught": "6/12/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Growlithe",
+  "form": "Hisuian (2792)",
+  "sid": "growlithe_hisuian",
+  "ivs": [
+   14,
+   15,
+   13
+  ],
+  "rank": 2,
+  "cp_now": "933",
+  "cp_gl": 1494,
+  "level_gl": 51,
+  "caught": "6/14/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Koffing",
+  "form": "",
+  "sid": "koffing",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "795",
+  "cp_gl": 1385,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Tinkatuff",
+  "form": "",
+  "sid": "tinkatuff",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "744",
+  "cp_gl": 1490,
+  "level_gl": 51,
+  "caught": "3/14/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Aron",
+  "form": "",
+  "sid": "aron",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "333",
+  "cp_gl": 1491,
+  "level_gl": 51,
+  "caught": "7/11/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bergmite",
+  "form": "",
+  "sid": "bergmite",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "553",
+  "cp_gl": 1386,
+  "level_gl": 51,
+  "caught": "2/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Totodile",
+  "form": "",
+  "sid": "totodile",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "641",
+  "cp_gl": 1285,
+  "level_gl": 51,
+  "caught": "1/28/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Scorbunny",
+  "form": "",
+  "sid": "scorbunny",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "840",
+  "cp_gl": 1247,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Helioptile",
+  "form": "",
+  "sid": "helioptile",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "370",
+  "cp_gl": 1059,
+  "level_gl": 51,
+  "caught": "2/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Voltorb",
+  "form": "",
+  "sid": "voltorb",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "166",
+  "cp_gl": 1151,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Natu",
+  "form": "",
+  "sid": "natu",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "532",
+  "cp_gl": 1253,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Venonat",
+  "form": "",
+  "sid": "venonat",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "772",
+  "cp_gl": 1145,
+  "level_gl": 51,
+  "caught": "10/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Corsola",
+  "form": "",
+  "sid": "corsola",
+  "ivs": [
+   10,
+   15,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "757",
+  "cp_gl": 1499,
+  "level_gl": 50,
+  "caught": "8/10/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pidove",
+  "form": "",
+  "sid": "pidove",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "579",
+  "cp_gl": 967,
+  "level_gl": 51,
+  "caught": "6/12/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Spearow",
+  "form": "",
+  "sid": "spearow",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "543",
+  "cp_gl": 906,
+  "level_gl": 51,
+  "caught": "6/23/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Tepig",
+  "form": "",
+  "sid": "tepig",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "648",
+  "cp_gl": 1236,
+  "level_gl": 51,
+  "caught": "6/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Tepig",
+  "form": "",
+  "sid": "tepig",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "617",
+  "cp_gl": 1236,
+  "level_gl": 51,
+  "caught": "2/27/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Lechonk",
+  "form": "",
+  "sid": "lechonk",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "521",
+  "cp_gl": 836,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Gible",
+  "form": "",
+  "sid": "gible",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "634",
+  "cp_gl": 1269,
+  "level_gl": 51,
+  "caught": "7/25/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Skrelp",
+  "form": "",
+  "sid": "skrelp",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "605",
+  "cp_gl": 1212,
+  "level_gl": 51,
+  "caught": "1/19/2023",
+  "nickname": ""
+ },
+ {
+  "name": "Bidoof",
+  "form": "",
+  "sid": "bidoof",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "287",
+  "cp_gl": 823,
+  "level_gl": 51,
+  "caught": "7/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sprigatito",
+  "form": "",
+  "sid": "sprigatito",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "546",
+  "cp_gl": 1152,
+  "level_gl": 51,
+  "caught": "2/23/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Togepi",
+  "form": "",
+  "sid": "togepi",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 2,
+  "cp_now": "374",
+  "cp_gl": 750,
+  "level_gl": 51,
+  "caught": "6/11/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Azurill",
+  "form": "",
+  "sid": "azurill",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 2,
+  "cp_now": "207",
+  "cp_gl": 415,
+  "level_gl": 51,
+  "caught": "10/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Tauros",
+  "form": "",
+  "sid": "tauros",
+  "ivs": [
+   1,
+   15,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "1500",
+  "cp_gl": 1500,
+  "level_gl": 21.5,
+  "caught": "3/6/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Stufful",
+  "form": "",
+  "sid": "stufful",
+  "ivs": [
+   12,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "1174",
+  "cp_gl": 1498,
+  "level_gl": 50,
+  "caught": "6/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Frigibax",
+  "form": "",
+  "sid": "frigibax",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "708",
+  "cp_gl": 1418,
+  "level_gl": 51,
+  "caught": "6/10/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Spritzee",
+  "form": "",
+  "sid": "spritzee",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 3,
+  "cp_now": "55",
+  "cp_gl": 1425,
+  "level_gl": 51,
+  "caught": "6/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Buneary",
+  "form": "",
+  "sid": "buneary",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "717",
+  "cp_gl": 1435,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bulbasaur",
+  "form": "",
+  "sid": "bulbasaur",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "790",
+  "cp_gl": 1266,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bulbasaur",
+  "form": "",
+  "sid": "bulbasaur",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "756",
+  "cp_gl": 1261,
+  "level_gl": 51,
+  "caught": "2/27/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Machop",
+  "form": "",
+  "sid": "machop",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "580",
+  "cp_gl": 1453,
+  "level_gl": 51,
+  "caught": "6/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Machop",
+  "form": "",
+  "sid": "machop",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "544",
+  "cp_gl": 1453,
+  "level_gl": 51,
+  "caught": "6/10/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sandshrew",
+  "form": "",
+  "sid": "sandshrew",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "897",
+  "cp_gl": 1438,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Rowlet",
+  "form": "",
+  "sid": "rowlet",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "419",
+  "cp_gl": 1200,
+  "level_gl": 51,
+  "caught": "9/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Drowzee",
+  "form": "",
+  "sid": "drowzee",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 3,
+  "cp_now": "738",
+  "cp_gl": 1183,
+  "level_gl": 51,
+  "caught": "3/17/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sandygast",
+  "form": "",
+  "sid": "sandygast",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "91",
+  "cp_gl": 1401,
+  "level_gl": 51,
+  "caught": "12/20/2024",
+  "nickname": ""
+ },
+ {
+  "name": "Yamask",
+  "form": "Galarian (2344)",
+  "sid": "yamask_galarian",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "866",
+  "cp_gl": 1119,
+  "level_gl": 51,
+  "caught": "9/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Mareep",
+  "form": "",
+  "sid": "mareep",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "843",
+  "cp_gl": 1125,
+  "level_gl": 51,
+  "caught": "4/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sewaddle",
+  "form": "",
+  "sid": "sewaddle",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "526",
+  "cp_gl": 1110,
+  "level_gl": 51,
+  "caught": "3/17/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Voltorb",
+  "form": "",
+  "sid": "voltorb",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "715",
+  "cp_gl": 1146,
+  "level_gl": 51,
+  "caught": "8/31/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Smoliv",
+  "form": "",
+  "sid": "smoliv",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "653",
+  "cp_gl": 968,
+  "level_gl": 51,
+  "caught": "2/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Smoliv",
+  "form": "",
+  "sid": "smoliv",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "265",
+  "cp_gl": 965,
+  "level_gl": 51,
+  "caught": "10/1/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fletchling",
+  "form": "",
+  "sid": "fletchling",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 3,
+  "cp_now": "738",
+  "cp_gl": 909,
+  "level_gl": 51,
+  "caught": "2/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fletchling",
+  "form": "",
+  "sid": "fletchling",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 3,
+  "cp_now": "272",
+  "cp_gl": 909,
+  "level_gl": 51,
+  "caught": "6/11/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Snivy",
+  "form": "",
+  "sid": "snivy",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "507",
+  "cp_gl": 968,
+  "level_gl": 51,
+  "caught": "9/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Snivy",
+  "form": "",
+  "sid": "snivy",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "314",
+  "cp_gl": 968,
+  "level_gl": 51,
+  "caught": "7/6/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Applin",
+  "form": "",
+  "sid": "applin",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "31",
+  "cp_gl": 814,
+  "level_gl": 51,
+  "caught": "10/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Lechonk",
+  "form": "",
+  "sid": "lechonk",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "455",
+  "cp_gl": 830,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Froakie",
+  "form": "",
+  "sid": "froakie",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "476",
+  "cp_gl": 1123,
+  "level_gl": 51,
+  "caught": "9/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bidoof",
+  "form": "",
+  "sid": "bidoof",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "550",
+  "cp_gl": 816,
+  "level_gl": 51,
+  "caught": "3/8/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bidoof",
+  "form": "",
+  "sid": "bidoof",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "53",
+  "cp_gl": 816,
+  "level_gl": 51,
+  "caught": "9/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Oshawott",
+  "form": "",
+  "sid": "oshawott",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "504",
+  "cp_gl": 1187,
+  "level_gl": 51,
+  "caught": "8/30/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Wooper",
+  "form": "",
+  "sid": "wooper",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "104",
+  "cp_gl": 726,
+  "level_gl": 51,
+  "caught": "8/30/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Poochyena",
+  "form": "",
+  "sid": "poochyena",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "405",
+  "cp_gl": 773,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sprigatito",
+  "form": "",
+  "sid": "sprigatito",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "433",
+  "cp_gl": 1157,
+  "level_gl": 51,
+  "caught": "7/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Yamper",
+  "form": "",
+  "sid": "yamper",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "105",
+  "cp_gl": 897,
+  "level_gl": 51,
+  "caught": "9/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Rattata",
+  "form": "",
+  "sid": "rattata",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "186",
+  "cp_gl": 833,
+  "level_gl": 51,
+  "caught": "2/9/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Cutiefly",
+  "form": "",
+  "sid": "cutiefly",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "531",
+  "cp_gl": 1013,
+  "level_gl": 51,
+  "caught": "10/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Meowth",
+  "form": "",
+  "sid": "meowth",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "529",
+  "cp_gl": 848,
+  "level_gl": 51,
+  "caught": "6/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Patrat",
+  "form": "",
+  "sid": "patrat",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 3,
+  "cp_now": "449",
+  "cp_gl": 899,
+  "level_gl": 51,
+  "caught": "3/7/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Venipede",
+  "form": "",
+  "sid": "venipede",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "281",
+  "cp_gl": 805,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Diglett",
+  "form": "Alolan (60)",
+  "sid": "diglett_alolan",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "406",
+  "cp_gl": 775,
+  "level_gl": 51,
+  "caught": "12/21/2024",
+  "nickname": ""
+ },
+ {
+  "name": "Combee",
+  "form": "",
+  "sid": "combee",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 3,
+  "cp_now": "196",
+  "cp_gl": 563,
+  "level_gl": 51,
+  "caught": "2/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Magikarp",
+  "form": "",
+  "sid": "magikarp",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 3,
+  "cp_now": "156",
+  "cp_gl": 312,
+  "level_gl": 51,
+  "caught": "1/19/2023",
+  "nickname": ""
+ },
+ {
+  "name": "Cinderace",
+  "form": "",
+  "sid": "cinderace",
+  "ivs": [
+   1,
+   15,
+   13
+  ],
+  "rank": 4,
+  "cp_now": "639",
+  "cp_gl": 1499,
+  "level_gl": 18.5,
+  "caught": "2/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Spritzee",
+  "form": "",
+  "sid": "spritzee",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 4,
+  "cp_now": "391",
+  "cp_gl": 1423,
+  "level_gl": 51,
+  "caught": "2/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Exeggcute",
+  "form": "",
+  "sid": "exeggcute",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "368",
+  "cp_gl": 1340,
+  "level_gl": 51,
+  "caught": "5/19/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Grookey",
+  "form": "",
+  "sid": "grookey",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "243",
+  "cp_gl": 1236,
+  "level_gl": 51,
+  "caught": "5/17/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Zorua",
+  "form": "",
+  "sid": "zorua",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "567",
+  "cp_gl": 1338,
+  "level_gl": 51,
+  "caught": "3/12/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Foongus",
+  "form": "",
+  "sid": "foongus",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "905",
+  "cp_gl": 1115,
+  "level_gl": 51,
+  "caught": "10/1/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Foongus",
+  "form": "",
+  "sid": "foongus",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "160",
+  "cp_gl": 1115,
+  "level_gl": 51,
+  "caught": "9/28/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sizzlipede",
+  "form": "",
+  "sid": "sizzlipede",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "447",
+  "cp_gl": 1195,
+  "level_gl": 51,
+  "caught": "3/17/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Mankey",
+  "form": "",
+  "sid": "mankey",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "261",
+  "cp_gl": 1326,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sandygast",
+  "form": "",
+  "sid": "sandygast",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "878",
+  "cp_gl": 1406,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Scorbunny",
+  "form": "",
+  "sid": "scorbunny",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "654",
+  "cp_gl": 1249,
+  "level_gl": 51,
+  "caught": "9/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Helioptile",
+  "form": "",
+  "sid": "helioptile",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "662",
+  "cp_gl": 1061,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pikachu",
+  "form": "",
+  "sid": "pikachu",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 4,
+  "cp_now": "400",
+  "cp_gl": 1069,
+  "level_gl": 51,
+  "caught": "6/13/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Venonat",
+  "form": "",
+  "sid": "venonat",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "711",
+  "cp_gl": 1139,
+  "level_gl": 51,
+  "caught": "6/8/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Ditto",
+  "form": "",
+  "sid": "ditto",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 4,
+  "cp_now": "492",
+  "cp_gl": 939,
+  "level_gl": 51,
+  "caught": "2/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Ditto",
+  "form": "",
+  "sid": "ditto",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 4,
+  "cp_now": "434",
+  "cp_gl": 939,
+  "level_gl": 51,
+  "caught": "12/5/2018",
+  "nickname": "Ditto 96"
+ },
+ {
+  "name": "Onix",
+  "form": "",
+  "sid": "onix",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 4,
+  "cp_now": "470",
+  "cp_gl": 1255,
+  "level_gl": 51,
+  "caught": "1/13/2025",
+  "nickname": ""
+ },
+ {
+  "name": "Squirtle",
+  "form": "",
+  "sid": "squirtle",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "375",
+  "cp_gl": 1072,
+  "level_gl": 51,
+  "caught": "5/27/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Squirtle",
+  "form": "",
+  "sid": "squirtle",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "69",
+  "cp_gl": 1072,
+  "level_gl": 51,
+  "caught": "7/5/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Applin",
+  "form": "",
+  "sid": "applin",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "504",
+  "cp_gl": 807,
+  "level_gl": 51,
+  "caught": "10/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Duskull",
+  "form": "",
+  "sid": "duskull",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "339",
+  "cp_gl": 798,
+  "level_gl": 51,
+  "caught": "5/19/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Poochyena",
+  "form": "",
+  "sid": "poochyena",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "288",
+  "cp_gl": 771,
+  "level_gl": 51,
+  "caught": "2/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Nymble",
+  "form": "",
+  "sid": "nymble",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "61",
+  "cp_gl": 673,
+  "level_gl": 51,
+  "caught": "9/23/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Wimpod",
+  "form": "",
+  "sid": "wimpod",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "283",
+  "cp_gl": 567,
+  "level_gl": 51,
+  "caught": "4/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sunkern",
+  "form": "",
+  "sid": "sunkern",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "280",
+  "cp_gl": 449,
+  "level_gl": 51,
+  "caught": "9/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pichu",
+  "form": "",
+  "sid": "pichu",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "268",
+  "cp_gl": 538,
+  "level_gl": 51,
+  "caught": "1/5/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Scatterbug",
+  "form": "High Plains (2750)",
+  "sid": "scatterbug",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 4,
+  "cp_now": "208",
+  "cp_gl": 556,
+  "level_gl": 51,
+  "caught": "1/30/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Altaria",
+  "form": "",
+  "sid": "altaria",
+  "ivs": [
+   0,
+   15,
+   8
+  ],
+  "rank": 5,
+  "cp_now": "1499",
+  "cp_gl": 1499,
+  "level_gl": 29.5,
+  "caught": "7/19/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bibarel",
+  "form": "",
+  "sid": "bibarel",
+  "ivs": [
+   1,
+   15,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "1499",
+  "cp_gl": 1499,
+  "level_gl": 32.5,
+  "caught": "3/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Chansey",
+  "form": "",
+  "sid": "chansey",
+  "ivs": [
+   15,
+   15,
+   12
+  ],
+  "rank": 5,
+  "cp_now": "1036",
+  "cp_gl": 1431,
+  "level_gl": 51,
+  "caught": "9/21/2018",
+  "nickname": "Chansey 93"
+ },
+ {
+  "name": "Minun",
+  "form": "",
+  "sid": "minun",
+  "ivs": [
+   1,
+   14,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "254",
+  "cp_gl": 1499,
+  "level_gl": 38,
+  "caught": "4/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Snubbull",
+  "form": "",
+  "sid": "snubbull",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "387",
+  "cp_gl": 1409,
+  "level_gl": 51,
+  "caught": "6/12/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Gastly",
+  "form": "",
+  "sid": "gastly",
+  "ivs": [
+   13,
+   15,
+   14
+  ],
+  "rank": 5,
+  "cp_now": "935",
+  "cp_gl": 1387,
+  "level_gl": 51,
+  "caught": "2/21/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Trapinch",
+  "form": "",
+  "sid": "trapinch",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 5,
+  "cp_now": "542",
+  "cp_gl": 1448,
+  "level_gl": 51,
+  "caught": "6/14/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Charmander",
+  "form": "",
+  "sid": "charmander",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "331",
+  "cp_gl": 1104,
+  "level_gl": 51,
+  "caught": "6/14/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Cyndaquil",
+  "form": "",
+  "sid": "cyndaquil",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "275",
+  "cp_gl": 1104,
+  "level_gl": 51,
+  "caught": "2/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Helioptile",
+  "form": "",
+  "sid": "helioptile",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "446",
+  "cp_gl": 1051,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bellsprout",
+  "form": "",
+  "sid": "bellsprout",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "586",
+  "cp_gl": 1175,
+  "level_gl": 51,
+  "caught": "10/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Smoliv",
+  "form": "",
+  "sid": "smoliv",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 5,
+  "cp_now": "557",
+  "cp_gl": 970,
+  "level_gl": 51,
+  "caught": "9/28/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Onix",
+  "form": "",
+  "sid": "onix",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "467",
+  "cp_gl": 1248,
+  "level_gl": 51,
+  "caught": "6/26/2019",
+  "nickname": ""
+ },
+ {
+  "name": "Slugma",
+  "form": "",
+  "sid": "slugma",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "755",
+  "cp_gl": 1008,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Squirtle",
+  "form": "",
+  "sid": "squirtle",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "643",
+  "cp_gl": 1074,
+  "level_gl": 51,
+  "caught": "2/25/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Skwovet",
+  "form": "",
+  "sid": "skwovet",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 5,
+  "cp_now": "456",
+  "cp_gl": 1074,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fidough",
+  "form": "",
+  "sid": "fidough",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "559",
+  "cp_gl": 1119,
+  "level_gl": 51,
+  "caught": "10/5/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Lechonk",
+  "form": "",
+  "sid": "lechonk",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 5,
+  "cp_now": "645",
+  "cp_gl": 833,
+  "level_gl": 51,
+  "caught": "10/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Petilil",
+  "form": "",
+  "sid": "petilil",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 5,
+  "cp_now": "584",
+  "cp_gl": 1170,
+  "level_gl": 51,
+  "caught": "2/17/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Froakie",
+  "form": "",
+  "sid": "froakie",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 5,
+  "cp_now": "563",
+  "cp_gl": 1127,
+  "level_gl": 51,
+  "caught": "9/12/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Duskull",
+  "form": "",
+  "sid": "duskull",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 5,
+  "cp_now": "501",
+  "cp_gl": 804,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Swablu",
+  "form": "",
+  "sid": "swablu",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 5,
+  "cp_now": "444",
+  "cp_gl": 936,
+  "level_gl": 51,
+  "caught": "6/17/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sprigatito",
+  "form": "",
+  "sid": "sprigatito",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "428",
+  "cp_gl": 1143,
+  "level_gl": 51,
+  "caught": "12/26/2025",
+  "nickname": ""
+ },
+ {
+  "name": "Rattata",
+  "form": "",
+  "sid": "rattata",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 5,
+  "cp_now": "76",
+  "cp_gl": 833,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Diglett",
+  "form": "",
+  "sid": "diglett",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "475",
+  "cp_gl": 761,
+  "level_gl": 51,
+  "caught": "9/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Makuhita",
+  "form": "",
+  "sid": "makuhita",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "11",
+  "cp_gl": 928,
+  "level_gl": 51,
+  "caught": "10/5/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Cottonee",
+  "form": "",
+  "sid": "cottonee",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "337",
+  "cp_gl": 795,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Weedle",
+  "form": "",
+  "sid": "weedle",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 5,
+  "cp_now": "407",
+  "cp_gl": 518,
+  "level_gl": 51,
+  "caught": "6/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Drifloon",
+  "form": "",
+  "sid": "drifloon",
+  "ivs": [
+   15,
+   15,
+   12
+  ],
+  "rank": 5,
+  "cp_now": "52",
+  "cp_gl": 1360,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Ralts",
+  "form": "",
+  "sid": "ralts",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 5,
+  "cp_now": "305",
+  "cp_gl": 611,
+  "level_gl": 51,
+  "caught": "12/13/2018",
+  "nickname": "Ralts96"
+ },
+ {
+  "name": "Luvdisc",
+  "form": "",
+  "sid": "luvdisc",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 5,
+  "cp_now": "215",
+  "cp_gl": 963,
+  "level_gl": 51,
+  "caught": "2/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Spritzee",
+  "form": "",
+  "sid": "spritzee",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "1079",
+  "cp_gl": 1417,
+  "level_gl": 51,
+  "caught": "6/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Spritzee",
+  "form": "",
+  "sid": "spritzee",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "849",
+  "cp_gl": 1417,
+  "level_gl": 51,
+  "caught": "6/9/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Litten",
+  "form": "",
+  "sid": "litten",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 6,
+  "cp_now": "927",
+  "cp_gl": 1178,
+  "level_gl": 51,
+  "caught": "12/21/2024",
+  "nickname": ""
+ },
+ {
+  "name": "Shellos",
+  "form": "West Sea (96)",
+  "sid": "shellos",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "84",
+  "cp_gl": 1291,
+  "level_gl": 51,
+  "caught": "10/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Helioptile",
+  "form": "",
+  "sid": "helioptile",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "342",
+  "cp_gl": 1055,
+  "level_gl": 51,
+  "caught": "2/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pikipek",
+  "form": "",
+  "sid": "pikipek",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "489",
+  "cp_gl": 1031,
+  "level_gl": 51,
+  "caught": "7/6/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Geodude",
+  "form": "Alolan (68)",
+  "sid": "geodude_alolan",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 6,
+  "cp_now": "287",
+  "cp_gl": 1459,
+  "level_gl": 51,
+  "caught": "8/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Paras",
+  "form": "",
+  "sid": "paras",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 6,
+  "cp_now": "574",
+  "cp_gl": 1151,
+  "level_gl": 51,
+  "caught": "3/17/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Phantump",
+  "form": "",
+  "sid": "phantump",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 6,
+  "cp_now": "730",
+  "cp_gl": 1271,
+  "level_gl": 51,
+  "caught": "2/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Wattrel",
+  "form": "",
+  "sid": "wattrel",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "734",
+  "cp_gl": 933,
+  "level_gl": 51,
+  "caught": "9/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Lillipup",
+  "form": "",
+  "sid": "lillipup",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "337",
+  "cp_gl": 1039,
+  "level_gl": 51,
+  "caught": "2/27/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Gulpin",
+  "form": "",
+  "sid": "gulpin",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "712",
+  "cp_gl": 984,
+  "level_gl": 51,
+  "caught": "9/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fidough",
+  "form": "",
+  "sid": "fidough",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 6,
+  "cp_now": "278",
+  "cp_gl": 1114,
+  "level_gl": 51,
+  "caught": "9/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Spheal",
+  "form": "",
+  "sid": "spheal",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "407",
+  "cp_gl": 1088,
+  "level_gl": 51,
+  "caught": "5/20/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Applin",
+  "form": "",
+  "sid": "applin",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "303",
+  "cp_gl": 811,
+  "level_gl": 51,
+  "caught": "10/1/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Lechonk",
+  "form": "",
+  "sid": "lechonk",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "184",
+  "cp_gl": 827,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Nickit",
+  "form": "",
+  "sid": "nickit",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "261",
+  "cp_gl": 806,
+  "level_gl": 51,
+  "caught": "8/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Taillow",
+  "form": "",
+  "sid": "taillow",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "583",
+  "cp_gl": 865,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Mareanie",
+  "form": "",
+  "sid": "mareanie",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "551",
+  "cp_gl": 1105,
+  "level_gl": 51,
+  "caught": "9/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sprigatito",
+  "form": "",
+  "sid": "sprigatito",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "458",
+  "cp_gl": 1148,
+  "level_gl": 51,
+  "caught": "9/17/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Meowth",
+  "form": "",
+  "sid": "meowth",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "10",
+  "cp_gl": 845,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Purrloin",
+  "form": "",
+  "sid": "purrloin",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 6,
+  "cp_now": "526",
+  "cp_gl": 878,
+  "level_gl": 51,
+  "caught": "2/21/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Rattata",
+  "form": "Alolan (46)",
+  "sid": "rattata_alolan",
+  "ivs": [
+   15,
+   14,
+   15
+  ],
+  "rank": 6,
+  "cp_now": "521",
+  "cp_gl": 836,
+  "level_gl": 51,
+  "caught": "7/28/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Vulpix",
+  "form": "",
+  "sid": "vulpix",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 6,
+  "cp_now": "500",
+  "cp_gl": 1002,
+  "level_gl": 51,
+  "caught": "9/21/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Charcadet",
+  "form": "",
+  "sid": "charcadet",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "413",
+  "cp_gl": 827,
+  "level_gl": 51,
+  "caught": "6/25/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Ralts",
+  "form": "",
+  "sid": "ralts",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "103",
+  "cp_gl": 607,
+  "level_gl": 51,
+  "caught": "3/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Shuckle",
+  "form": "",
+  "sid": "shuckle",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 6,
+  "cp_now": "374",
+  "cp_gl": 461,
+  "level_gl": 51,
+  "caught": "2/19/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Oinkologne",
+  "form": "",
+  "sid": "oinkologne",
+  "ivs": [
+   1,
+   15,
+   15
+  ],
+  "rank": 7,
+  "cp_now": "2488",
+  "cp_gl": 1490,
+  "level_gl": 21.5,
+  "caught": "5/9/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Dedenne",
+  "form": "",
+  "sid": "dedenne",
+  "ivs": [
+   1,
+   15,
+   14
+  ],
+  "rank": 7,
+  "cp_now": "1112",
+  "cp_gl": 1499,
+  "level_gl": 32,
+  "caught": "4/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Machop",
+  "form": "",
+  "sid": "machop",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 7,
+  "cp_now": "720",
+  "cp_gl": 1443,
+  "level_gl": 51,
+  "caught": "8/28/2018",
+  "nickname": ""
+ },
+ {
+  "name": "Numel",
+  "form": "",
+  "sid": "numel",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 7,
+  "cp_now": "942",
+  "cp_gl": 1198,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Exeggcute",
+  "form": "",
+  "sid": "exeggcute",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 7,
+  "cp_now": "934",
+  "cp_gl": 1336,
+  "level_gl": 51,
+  "caught": "2/27/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Drowzee",
+  "form": "",
+  "sid": "drowzee",
+  "ivs": [
+   15,
+   14,
+   13
+  ],
+  "rank": 7,
+  "cp_now": "883",
+  "cp_gl": 1179,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Meowth",
+  "form": "Galarian (2335)",
+  "sid": "meowth_galarian",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 7,
+  "cp_now": "881",
+  "cp_gl": 1177,
+  "level_gl": 51,
+  "caught": "3/6/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Glameow",
+  "form": "",
+  "sid": "glameow",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 7,
+  "cp_now": "857",
+  "cp_gl": 1056,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Charmander",
+  "form": "",
+  "sid": "charmander",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 7,
+  "cp_now": "553",
+  "cp_gl": 1108,
+  "level_gl": 51,
+  "caught": "7/11/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fennekin",
+  "form": "",
+  "sid": "fennekin",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 7,
+  "cp_now": "784",
+  "cp_gl": 1163,
+  "level_gl": 51,
+  "caught": "9/5/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pikachu",
+  "form": "",
+  "sid": "pikachu",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 7,
+  "cp_now": "397",
+  "cp_gl": 1060,
+  "level_gl": 51,
+  "caught": "6/13/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pikachu",
+  "form": "Cap's Hat (2842)",
+  "sid": "pikachu",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 7,
+  "cp_now": "317",
+  "cp_gl": 1060,
+  "level_gl": 51,
+  "caught": "9/19/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Chimchar",
+  "form": "",
+  "sid": "chimchar",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 7,
+  "cp_now": "214",
+  "cp_gl": 1087,
+  "level_gl": 51,
+  "caught": "9/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Treecko",
+  "form": "",
+  "sid": "treecko",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 7,
+  "cp_now": "564",
+  "cp_gl": 1190,
+  "level_gl": 51,
+  "caught": "2/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Wattrel",
+  "form": "",
+  "sid": "wattrel",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 7,
+  "cp_now": "445",
+  "cp_gl": 938,
+  "level_gl": 51,
+  "caught": "9/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pidove",
+  "form": "",
+  "sid": "pidove",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 7,
+  "cp_now": "499",
+  "cp_gl": 953,
+  "level_gl": 51,
+  "caught": "3/11/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fidough",
+  "form": "",
+  "sid": "fidough",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 7,
+  "cp_now": "220",
+  "cp_gl": 1119,
+  "level_gl": 51,
+  "caught": "5/19/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Lechonk",
+  "form": "",
+  "sid": "lechonk",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 7,
+  "cp_now": "436",
+  "cp_gl": 831,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Nickit",
+  "form": "",
+  "sid": "nickit",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 7,
+  "cp_now": "222",
+  "cp_gl": 810,
+  "level_gl": 51,
+  "caught": "8/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Oshawott",
+  "form": "",
+  "sid": "oshawott",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 7,
+  "cp_now": "232",
+  "cp_gl": 1178,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Poochyena",
+  "form": "",
+  "sid": "poochyena",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 7,
+  "cp_now": "346",
+  "cp_gl": 770,
+  "level_gl": 51,
+  "caught": "2/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Poochyena",
+  "form": "",
+  "sid": "poochyena",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 7,
+  "cp_now": "70",
+  "cp_gl": 770,
+  "level_gl": 51,
+  "caught": "9/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Nincada",
+  "form": "",
+  "sid": "nincada",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 7,
+  "cp_now": "324",
+  "cp_gl": 867,
+  "level_gl": 51,
+  "caught": "11/14/2018",
+  "nickname": ""
+ },
+ {
+  "name": "Hoppip",
+  "form": "",
+  "sid": "hoppip",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 7,
+  "cp_now": "134",
+  "cp_gl": 681,
+  "level_gl": 51,
+  "caught": "5/19/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pichu",
+  "form": "",
+  "sid": "pichu",
+  "ivs": [
+   15,
+   15,
+   12
+  ],
+  "rank": 7,
+  "cp_now": "266",
+  "cp_gl": 534,
+  "level_gl": 51,
+  "caught": "5/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Excadrill",
+  "form": "",
+  "sid": "excadrill",
+  "ivs": [
+   4,
+   13,
+   14
+  ],
+  "rank": 8,
+  "cp_now": "1498",
+  "cp_gl": 1498,
+  "level_gl": 17,
+  "caught": "5/9/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Talonflame",
+  "form": "",
+  "sid": "talonflame",
+  "ivs": [
+   2,
+   15,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "1497",
+  "cp_gl": 1497,
+  "level_gl": 25.5,
+  "caught": "6/13/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Clefairy",
+  "form": "",
+  "sid": "clefairy",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "917",
+  "cp_gl": 1311,
+  "level_gl": 51,
+  "caught": "2/23/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Clefairy",
+  "form": "",
+  "sid": "clefairy",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "491",
+  "cp_gl": 1311,
+  "level_gl": 51,
+  "caught": "9/30/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bulbasaur",
+  "form": "",
+  "sid": "bulbasaur",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "470",
+  "cp_gl": 1256,
+  "level_gl": 51,
+  "caught": "9/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Machop",
+  "form": "",
+  "sid": "machop",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 8,
+  "cp_now": "616",
+  "cp_gl": 1451,
+  "level_gl": 51,
+  "caught": "3/5/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Growlithe",
+  "form": "Hisuian (2792)",
+  "sid": "growlithe_hisuian",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "218",
+  "cp_gl": 1495,
+  "level_gl": 50,
+  "caught": "6/10/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Growlithe",
+  "form": "Hisuian (2792)",
+  "sid": "growlithe_hisuian",
+  "ivs": [
+   15,
+   15,
+   14
+  ],
+  "rank": 8,
+  "cp_now": "217",
+  "cp_gl": 1490,
+  "level_gl": 50,
+  "caught": "6/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Munna",
+  "form": "",
+  "sid": "munna",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "966",
+  "cp_gl": 1289,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Koffing",
+  "form": "",
+  "sid": "koffing",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 8,
+  "cp_now": "448",
+  "cp_gl": 1380,
+  "level_gl": 51,
+  "caught": "5/19/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Aron",
+  "form": "",
+  "sid": "aron",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "920",
+  "cp_gl": 1474,
+  "level_gl": 51,
+  "caught": "8/31/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Mareep",
+  "form": "",
+  "sid": "mareep",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 8,
+  "cp_now": "251",
+  "cp_gl": 1124,
+  "level_gl": 51,
+  "caught": "8/31/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Cyndaquil",
+  "form": "",
+  "sid": "cyndaquil",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 8,
+  "cp_now": "361",
+  "cp_gl": 1113,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pikipek",
+  "form": "",
+  "sid": "pikipek",
+  "ivs": [
+   12,
+   15,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "201",
+  "cp_gl": 1021,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Paras",
+  "form": "",
+  "sid": "paras",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "691",
+  "cp_gl": 1154,
+  "level_gl": 51,
+  "caught": "3/17/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Dusclops",
+  "form": "",
+  "sid": "dusclops",
+  "ivs": [
+   0,
+   12,
+   14
+  ],
+  "rank": 8,
+  "cp_now": "316",
+  "cp_gl": 1496,
+  "level_gl": 45,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Smoliv",
+  "form": "",
+  "sid": "smoliv",
+  "ivs": [
+   14,
+   15,
+   13
+  ],
+  "rank": 8,
+  "cp_now": "408",
+  "cp_gl": 961,
+  "level_gl": 51,
+  "caught": "9/28/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Ferroseed",
+  "form": "",
+  "sid": "ferroseed",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 8,
+  "cp_now": "667",
+  "cp_gl": 1069,
+  "level_gl": 51,
+  "caught": "12/21/2024",
+  "nickname": ""
+ },
+ {
+  "name": "Snivy",
+  "form": "",
+  "sid": "snivy",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "139",
+  "cp_gl": 964,
+  "level_gl": 51,
+  "caught": "9/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Gulpin",
+  "form": "",
+  "sid": "gulpin",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "193",
+  "cp_gl": 982,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Skwovet",
+  "form": "",
+  "sid": "skwovet",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "556",
+  "cp_gl": 1060,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Elekid",
+  "form": "",
+  "sid": "elekid",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "680",
+  "cp_gl": 1362,
+  "level_gl": 51,
+  "caught": "6/26/2018",
+  "nickname": "Elekid 96%"
+ },
+ {
+  "name": "Fidough",
+  "form": "",
+  "sid": "fidough",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "189",
+  "cp_gl": 1108,
+  "level_gl": 51,
+  "caught": "9/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Applin",
+  "form": "",
+  "sid": "applin",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "653",
+  "cp_gl": 804,
+  "level_gl": 51,
+  "caught": "10/5/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Applin",
+  "form": "",
+  "sid": "applin",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "158",
+  "cp_gl": 804,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Popplio",
+  "form": "",
+  "sid": "popplio",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "478",
+  "cp_gl": 1277,
+  "level_gl": 51,
+  "caught": "1/3/2025",
+  "nickname": ""
+ },
+ {
+  "name": "Fomantis",
+  "form": "",
+  "sid": "fomantis",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "605",
+  "cp_gl": 836,
+  "level_gl": 51,
+  "caught": "2/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Tinkatink",
+  "form": "",
+  "sid": "tinkatink",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 8,
+  "cp_now": "485",
+  "cp_gl": 972,
+  "level_gl": 51,
+  "caught": "6/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Oshawott",
+  "form": "",
+  "sid": "oshawott",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 8,
+  "cp_now": "326",
+  "cp_gl": 1187,
+  "level_gl": 51,
+  "caught": "9/28/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Swablu",
+  "form": "",
+  "sid": "swablu",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "561",
+  "cp_gl": 936,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Wooper",
+  "form": "Paldean (3009)",
+  "sid": "wooper",
+  "ivs": [
+   15,
+   15,
+   12
+  ],
+  "rank": 8,
+  "cp_now": "545",
+  "cp_gl": 727,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Shelmet",
+  "form": "",
+  "sid": "shelmet",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "11",
+  "cp_gl": 940,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Rattata",
+  "form": "",
+  "sid": "rattata",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 8,
+  "cp_now": "206",
+  "cp_gl": 826,
+  "level_gl": 51,
+  "caught": "9/17/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Diglett",
+  "form": "Alolan (60)",
+  "sid": "diglett_alolan",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 8,
+  "cp_now": "287",
+  "cp_gl": 768,
+  "level_gl": 51,
+  "caught": "1/25/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Galvantula",
+  "form": "",
+  "sid": "galvantula",
+  "ivs": [
+   0,
+   15,
+   14
+  ],
+  "rank": 9,
+  "cp_now": "1491",
+  "cp_gl": 1491,
+  "level_gl": 25.5,
+  "caught": "4/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Lileep",
+  "form": "",
+  "sid": "lileep",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 9,
+  "cp_now": "729",
+  "cp_gl": 1461,
+  "level_gl": 51,
+  "caught": "6/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Chansey",
+  "form": "",
+  "sid": "chansey",
+  "ivs": [
+   15,
+   14,
+   13
+  ],
+  "rank": 9,
+  "cp_now": "1248",
+  "cp_gl": 1428,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Slakoth",
+  "form": "",
+  "sid": "slakoth",
+  "ivs": [
+   15,
+   14,
+   13
+  ],
+  "rank": 9,
+  "cp_now": "892",
+  "cp_gl": 1134,
+  "level_gl": 51,
+  "caught": "6/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Rowlet",
+  "form": "",
+  "sid": "rowlet",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 9,
+  "cp_now": "653",
+  "cp_gl": 1190,
+  "level_gl": 51,
+  "caught": "9/27/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Charmander",
+  "form": "",
+  "sid": "charmander",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 9,
+  "cp_now": "472",
+  "cp_gl": 1112,
+  "level_gl": 51,
+  "caught": "3/12/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Bellsprout",
+  "form": "",
+  "sid": "bellsprout",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 9,
+  "cp_now": "199",
+  "cp_gl": 1167,
+  "level_gl": 51,
+  "caught": "6/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Ekans",
+  "form": "",
+  "sid": "ekans",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 9,
+  "cp_now": "420",
+  "cp_gl": 1052,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Phantump",
+  "form": "",
+  "sid": "phantump",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 9,
+  "cp_now": "251",
+  "cp_gl": 1275,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Whirlipede",
+  "form": "",
+  "sid": "whirlipede",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 9,
+  "cp_now": "546",
+  "cp_gl": 1286,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Slugma",
+  "form": "",
+  "sid": "slugma",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 9,
+  "cp_now": "481",
+  "cp_gl": 1014,
+  "level_gl": 51,
+  "caught": "8/9/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Slugma",
+  "form": "",
+  "sid": "slugma",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 9,
+  "cp_now": "304",
+  "cp_gl": 1014,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fletchling",
+  "form": "",
+  "sid": "fletchling",
+  "ivs": [
+   14,
+   15,
+   13
+  ],
+  "rank": 9,
+  "cp_now": "225",
+  "cp_gl": 901,
+  "level_gl": 51,
+  "caught": "6/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Wobbuffet",
+  "form": "",
+  "sid": "wobbuffet",
+  "ivs": [
+   14,
+   15,
+   15
+  ],
+  "rank": 9,
+  "cp_now": "723",
+  "cp_gl": 1159,
+  "level_gl": 51,
+  "caught": "5/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fidough",
+  "form": "",
+  "sid": "fidough",
+  "ivs": [
+   14,
+   15,
+   14
+  ],
+  "rank": 9,
+  "cp_now": "556",
+  "cp_gl": 1113,
+  "level_gl": 51,
+  "caught": "10/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Ducklett",
+  "form": "",
+  "sid": "ducklett",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 9,
+  "cp_now": "651",
+  "cp_gl": 966,
+  "level_gl": 51,
+  "caught": "2/28/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Panpour",
+  "form": "",
+  "sid": "panpour",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 9,
+  "cp_now": "620",
+  "cp_gl": 1080,
+  "level_gl": 51,
+  "caught": "3/7/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Nymble",
+  "form": "",
+  "sid": "nymble",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 9,
+  "cp_now": "432",
+  "cp_gl": 666,
+  "level_gl": 51,
+  "caught": "3/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Weedle",
+  "form": "",
+  "sid": "weedle",
+  "ivs": [
+   15,
+   15,
+   12
+  ],
+  "rank": 9,
+  "cp_now": "193",
+  "cp_gl": 516,
+  "level_gl": 51,
+  "caught": "9/10/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Dedenne",
+  "form": "",
+  "sid": "dedenne",
+  "ivs": [
+   2,
+   15,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "1500",
+  "cp_gl": 1500,
+  "level_gl": 31.5,
+  "caught": "5/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Gligar",
+  "form": "",
+  "sid": "gligar",
+  "ivs": [
+   0,
+   14,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "1497",
+  "cp_gl": 1497,
+  "level_gl": 32.5,
+  "caught": "8/31/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Teddiursa",
+  "form": "",
+  "sid": "teddiursa",
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "1176",
+  "cp_gl": 1493,
+  "level_gl": 49.5,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Swirlix",
+  "form": "",
+  "sid": "swirlix",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "596",
+  "cp_gl": 1327,
+  "level_gl": 51,
+  "caught": "12/28/2022",
+  "nickname": ""
+ },
+ {
+  "name": "Sandshrew",
+  "form": "",
+  "sid": "sandshrew",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "966",
+  "cp_gl": 1434,
+  "level_gl": 51,
+  "caught": "3/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Torchic",
+  "form": "",
+  "sid": "torchic",
+  "ivs": [
+   14,
+   15,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "939",
+  "cp_gl": 1234,
+  "level_gl": 51,
+  "caught": "9/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Exeggcute",
+  "form": "",
+  "sid": "exeggcute",
+  "ivs": [
+   14,
+   15,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "894",
+  "cp_gl": 1326,
+  "level_gl": 51,
+  "caught": "9/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Exeggcute",
+  "form": "",
+  "sid": "exeggcute",
+  "ivs": [
+   14,
+   15,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "662",
+  "cp_gl": 1326,
+  "level_gl": 51,
+  "caught": "6/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Stunky",
+  "form": "",
+  "sid": "stunky",
+  "ivs": [
+   13,
+   15,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "907",
+  "cp_gl": 1298,
+  "level_gl": 51,
+  "caught": "6/15/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Foongus",
+  "form": "",
+  "sid": "foongus",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "859",
+  "cp_gl": 1110,
+  "level_gl": 51,
+  "caught": "10/1/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Sewaddle",
+  "form": "",
+  "sid": "sewaddle",
+  "ivs": [
+   15,
+   14,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "159",
+  "cp_gl": 1106,
+  "level_gl": 51,
+  "caught": "5/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Voltorb",
+  "form": "",
+  "sid": "voltorb",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "802",
+  "cp_gl": 1147,
+  "level_gl": 51,
+  "caught": "6/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pikachu",
+  "form": "",
+  "sid": "pikachu",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "398",
+  "cp_gl": 1064,
+  "level_gl": 51,
+  "caught": "7/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Pidove",
+  "form": "",
+  "sid": "pidove",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "359",
+  "cp_gl": 960,
+  "level_gl": 51,
+  "caught": "6/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Skwovet",
+  "form": "",
+  "sid": "skwovet",
+  "ivs": [
+   15,
+   15,
+   12
+  ],
+  "rank": 10,
+  "cp_now": "642",
+  "cp_gl": 1071,
+  "level_gl": 51,
+  "caught": "10/1/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Fidough",
+  "form": "",
+  "sid": "fidough",
+  "ivs": [
+   15,
+   15,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "307",
+  "cp_gl": 1118,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Tympole",
+  "form": "",
+  "sid": "tympole",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "308",
+  "cp_gl": 949,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Mudkip",
+  "form": "",
+  "sid": "mudkip",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "606",
+  "cp_gl": 1279,
+  "level_gl": 51,
+  "caught": "2/25/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Mudkip",
+  "form": "",
+  "sid": "mudkip",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "447",
+  "cp_gl": 1279,
+  "level_gl": 51,
+  "caught": "2/25/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Shinx",
+  "form": "",
+  "sid": "shinx",
+  "ivs": [
+   14,
+   15,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "493",
+  "cp_gl": 988,
+  "level_gl": 51,
+  "caught": "10/21/2018",
+  "nickname": "Shinx\u3007\u03de\u2468\u2462\u2642"
+ },
+ {
+  "name": "Duskull",
+  "form": "",
+  "sid": "duskull",
+  "ivs": [
+   14,
+   13,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "594",
+  "cp_gl": 794,
+  "level_gl": 51,
+  "caught": "10/4/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Duskull",
+  "form": "",
+  "sid": "duskull",
+  "ivs": [
+   14,
+   13,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "396",
+  "cp_gl": 794,
+  "level_gl": 51,
+  "caught": "6/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Swablu",
+  "form": "",
+  "sid": "swablu",
+  "ivs": [
+   15,
+   14,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "582",
+  "cp_gl": 933,
+  "level_gl": 51,
+  "caught": "10/3/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Deerling",
+  "form": "Autumn (587)",
+  "sid": "deerling",
+  "ivs": [
+   15,
+   14,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "287",
+  "cp_gl": 1285,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Rookidee",
+  "form": "",
+  "sid": "rookidee",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 10,
+  "cp_now": "509",
+  "cp_gl": 755,
+  "level_gl": 51,
+  "caught": "6/18/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Rookidee",
+  "form": "",
+  "sid": "rookidee",
+  "ivs": [
+   15,
+   14,
+   13
+  ],
+  "rank": 10,
+  "cp_now": "300",
+  "cp_gl": 752,
+  "level_gl": 51,
+  "caught": "9/24/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Swinub",
+  "form": "",
+  "sid": "swinub",
+  "ivs": [
+   15,
+   15,
+   11
+  ],
+  "rank": 10,
+  "cp_now": "522",
+  "cp_gl": 836,
+  "level_gl": 51,
+  "caught": "3/19/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Diglett",
+  "form": "",
+  "sid": "diglett",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 10,
+  "cp_now": "401",
+  "cp_gl": 765,
+  "level_gl": 51,
+  "caught": "9/16/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Goldeen",
+  "form": "",
+  "sid": "goldeen",
+  "ivs": [
+   14,
+   14,
+   14
+  ],
+  "rank": 10,
+  "cp_now": "486",
+  "cp_gl": 1299,
+  "level_gl": 51,
+  "caught": "1/26/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Goldeen",
+  "form": "",
+  "sid": "goldeen",
+  "ivs": [
+   14,
+   14,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "358",
+  "cp_gl": 1303,
+  "level_gl": 51,
+  "caught": "3/5/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Meowth",
+  "form": "Alolan (64)",
+  "sid": "meowth_alolan",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "360",
+  "cp_gl": 903,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Nosepass",
+  "form": "",
+  "sid": "nosepass",
+  "ivs": [
+   15,
+   12,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "310",
+  "cp_gl": 1129,
+  "level_gl": 51,
+  "caught": "5/2/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Nymble",
+  "form": "",
+  "sid": "nymble",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "334",
+  "cp_gl": 669,
+  "level_gl": 51,
+  "caught": "5/22/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Ralts",
+  "form": "",
+  "sid": "ralts",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "258",
+  "cp_gl": 608,
+  "level_gl": 51,
+  "caught": "2/21/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Shuckle",
+  "form": "",
+  "sid": "shuckle",
+  "ivs": [
+   15,
+   13,
+   14
+  ],
+  "rank": 10,
+  "cp_now": "298",
+  "cp_gl": 460,
+  "level_gl": 51,
+  "caught": "2/17/2026",
+  "nickname": ""
+ },
+ {
+  "name": "Zubat",
+  "form": "",
+  "sid": "zubat",
+  "ivs": [
+   15,
+   13,
+   15
+  ],
+  "rank": 10,
+  "cp_now": "320",
+  "cp_gl": 754,
+  "level_gl": 51,
+  "caught": "1/8/2025",
+  "nickname": ""
+ },
+ {
+  "name": "Pichu",
+  "form": "",
+  "sid": "pichu",
+  "ivs": [
+   15,
+   14,
+   14
+  ],
+  "rank": 10,
+  "cp_now": "267",
+  "cp_gl": 535,
+  "level_gl": 51,
+  "caught": "1/10/2023",
+  "nickname": ""
+ },
+ {
+  "name": "Magikarp",
+  "form": "",
+  "sid": "magikarp",
+  "ivs": [
+   15,
+   13,
+   14
+  ],
+  "rank": 10,
+  "cp_now": "177",
+  "cp_gl": 309,
+  "level_gl": 51,
+  "caught": "2/20/2026",
+  "nickname": ""
+ }
+]
