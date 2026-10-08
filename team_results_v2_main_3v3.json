@@ -1,0 +1,57 @@
+[
+ {
+  "team": [
+   "Mimikyu",
+   "Azumarill",
+   "Stunfisk"
+  ],
+  "lead": "mimikyu",
+  "winRate": 0.8461538461538461,
+  "wins": 33,
+  "total": 39
+ },
+ {
+  "team": [
+   "Mimikyu",
+   "Stunfisk",
+   "Umbreon"
+  ],
+  "lead": "mimikyu",
+  "winRate": 0.7948717948717948,
+  "wins": 31,
+  "total": 39
+ },
+ {
+  "team": [
+   "Mimikyu",
+   "Stunfisk",
+   "Abomasnow"
+  ],
+  "lead": "mimikyu",
+  "winRate": 0.7692307692307693,
+  "wins": 30,
+  "total": 39
+ },
+ {
+  "team": [
+   "Altaria",
+   "Mimikyu",
+   "Stunfisk"
+  ],
+  "lead": "mimikyu",
+  "winRate": 0.7435897435897436,
+  "wins": 29,
+  "total": 39
+ },
+ {
+  "team": [
+   "Mimikyu",
+   "Whiscash",
+   "Umbreon"
+  ],
+  "lead": "mimikyu",
+  "winRate": 0.6923076923076923,
+  "wins": 27,
+  "total": 39
+ }
+]
