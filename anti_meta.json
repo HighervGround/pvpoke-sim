@@ -1,0 +1,267 @@
+[
+ {
+  "anti": 130.07341422477094,
+  "broad": 133.4840641090414,
+  "team": [
+   "Mimikyu",
+   "Stunfisk",
+   "Abomasnow"
+  ],
+  "specs": [
+   {
+    "id": "mimikyu",
+    "moves": [
+     "SHADOW_CLAW",
+     "SHADOW_SNEAK",
+     "PLAY_ROUGH"
+    ],
+    "ivs": [
+     15,
+     12,
+     15
+    ],
+    "level": 23.5
+   },
+   {
+    "id": "stunfisk",
+    "moves": [
+     "THUNDER_SHOCK",
+     "MUD_BOMB",
+     "DISCHARGE"
+    ],
+    "ivs": [
+     0,
+     14,
+     15
+    ],
+    "level": 26.5
+   },
+   {
+    "id": "abomasnow",
+    "moves": [
+     "POWDER_SNOW",
+     "ENERGY_BALL",
+     "WEATHER_BALL_ICE"
+    ],
+    "ivs": [
+     0,
+     15,
+     15
+    ],
+    "level": 24
+   }
+  ]
+ },
+ {
+  "anti": 133.87122160636847,
+  "broad": 142.87117696548472,
+  "team": [
+   "Mimikyu",
+   "Azumarill",
+   "Stunfisk"
+  ],
+  "specs": [
+   {
+    "id": "mimikyu",
+    "moves": [
+     "SHADOW_CLAW",
+     "SHADOW_SNEAK",
+     "PLAY_ROUGH"
+    ],
+    "ivs": [
+     15,
+     12,
+     15
+    ],
+    "level": 23.5
+   },
+   {
+    "id": "azumarill",
+    "moves": [
+     "BUBBLE",
+     "PLAY_ROUGH",
+     "ICE_BEAM"
+    ],
+    "ivs": [
+     0,
+     15,
+     15
+    ],
+    "level": 45.5
+   },
+   {
+    "id": "stunfisk",
+    "moves": [
+     "THUNDER_SHOCK",
+     "MUD_BOMB",
+     "DISCHARGE"
+    ],
+    "ivs": [
+     0,
+     14,
+     15
+    ],
+    "level": 26.5
+   }
+  ]
+ },
+ {
+  "anti": 135.36970739483735,
+  "broad": 146.7307733805199,
+  "team": [
+   "Mimikyu",
+   "Clodsire",
+   "Stunfisk"
+  ],
+  "specs": [
+   {
+    "id": "mimikyu",
+    "moves": [
+     "SHADOW_CLAW",
+     "SHADOW_SNEAK",
+     "PLAY_ROUGH"
+    ],
+    "ivs": [
+     15,
+     12,
+     15
+    ],
+    "level": 23.5
+   },
+   {
+    "id": "clodsire",
+    "moves": [
+     "POISON_STING",
+     "STONE_EDGE",
+     "EARTHQUAKE"
+    ],
+    "ivs": [
+     0,
+     14,
+     13
+    ],
+    "level": 30.5
+   },
+   {
+    "id": "stunfisk",
+    "moves": [
+     "THUNDER_SHOCK",
+     "MUD_BOMB",
+     "DISCHARGE"
+    ],
+    "ivs": [
+     0,
+     14,
+     15
+    ],
+    "level": 26.5
+   }
+  ]
+ },
+ {
+  "anti": 136.4097470277266,
+  "broad": 148.22797529440413,
+  "team": [
+   "Mimikyu",
+   "Dunsparce",
+   "Stunfisk"
+  ],
+  "specs": [
+   {
+    "id": "mimikyu",
+    "moves": [
+     "SHADOW_CLAW",
+     "SHADOW_SNEAK",
+     "PLAY_ROUGH"
+    ],
+    "ivs": [
+     15,
+     12,
+     15
+    ],
+    "level": 23.5
+   },
+   {
+    "id": "dunsparce",
+    "moves": [
+     "ROLLOUT",
+     "ROCK_SLIDE",
+     "DRILL_RUN"
+    ],
+    "ivs": [
+     0,
+     10,
+     11
+    ],
+    "level": 41
+   },
+   {
+    "id": "stunfisk",
+    "moves": [
+     "THUNDER_SHOCK",
+     "MUD_BOMB",
+     "DISCHARGE"
+    ],
+    "ivs": [
+     0,
+     14,
+     15
+    ],
+    "level": 26.5
+   }
+  ]
+ },
+ {
+  "anti": 137.71920048601038,
+  "broad": 144.8374692925307,
+  "team": [
+   "Mimikyu",
+   "Ninetales",
+   "Stunfisk"
+  ],
+  "specs": [
+   {
+    "id": "mimikyu",
+    "moves": [
+     "SHADOW_CLAW",
+     "SHADOW_SNEAK",
+     "PLAY_ROUGH"
+    ],
+    "ivs": [
+     15,
+     12,
+     15
+    ],
+    "level": 23.5
+   },
+   {
+    "id": "ninetales",
+    "moves": [
+     "FIRE_SPIN",
+     "WEATHER_BALL_FIRE",
+     "SCORCHING_SANDS"
+    ],
+    "ivs": [
+     0,
+     15,
+     15
+    ],
+    "level": 25
+   },
+   {
+    "id": "stunfisk",
+    "moves": [
+     "THUNDER_SHOCK",
+     "MUD_BOMB",
+     "DISCHARGE"
+    ],
+    "ivs": [
+     0,
+     14,
+     15
+    ],
+    "level": 26.5
+   }
+  ]
+ }
+]

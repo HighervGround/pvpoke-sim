@@ -2,90 +2,90 @@
  "ranking": [
   {
    "team": [
-    "Corviknight",
-    "Whiscash",
+    "Mimikyu",
+    "Stunfisk",
+    "Abomasnow"
+   ],
+   "lead": "mimikyu",
+   "winRate": 0.8444444444444444,
+   "wins": 76,
+   "total": 90
+  },
+  {
+   "team": [
+    "Mimikyu",
+    "Clodsire",
     "Umbreon"
    ],
-   "lead": "whiscash",
-   "winRate": 0.3,
-   "wins": 27,
+   "lead": "mimikyu",
+   "winRate": 0.8333333333333334,
+   "wins": 75,
+   "total": 90
+  },
+  {
+   "team": [
+    "Mimikyu",
+    "Pelipper",
+    "Stunfisk"
+   ],
+   "lead": "mimikyu",
+   "winRate": 0.7222222222222222,
+   "wins": 65,
+   "total": 90
+  },
+  {
+   "team": [
+    "Mimikyu",
+    "Clodsire",
+    "Abomasnow"
+   ],
+   "lead": "mimikyu",
+   "winRate": 0.7111111111111111,
+   "wins": 64,
    "total": 90
   },
   {
    "team": [
     "Mimikyu",
     "Whiscash",
-    "Umbreon"
-   ],
-   "lead": "whiscash",
-   "winRate": 0.25555555555555554,
-   "wins": 23,
-   "total": 90
-  },
-  {
-   "team": [
-    "Ninetales",
-    "Whiscash",
-    "Umbreon"
-   ],
-   "lead": "whiscash",
-   "winRate": 0.25555555555555554,
-   "wins": 23,
-   "total": 90
-  },
-  {
-   "team": [
-    "Whiscash",
-    "Umbreon",
     "Abomasnow"
    ],
-   "lead": "whiscash",
-   "winRate": 0.2,
-   "wins": 18,
-   "total": 90
-  },
-  {
-   "team": [
-    "Corviknight",
-    "Whiscash",
-    "Abomasnow"
-   ],
-   "lead": "whiscash",
-   "winRate": 0.1111111111111111,
-   "wins": 10,
+   "lead": "mimikyu",
+   "winRate": 0.6111111111111112,
+   "wins": 55,
    "total": 90
   }
  ],
  "leadOrders": [
   {
    "order": [
-    "Umbreon",
-    "Corviknight",
-    "Whiscash"
+    "Mimikyu",
+    "Stunfisk",
+    "Abomasnow"
    ],
-   "wins": 47,
+   "wins": 75,
    "total": 90,
-   "winRate": 0.5222222222222223
+   "winRate": 0.8333333333333334
   },
   {
    "order": [
-    "Whiscash",
-    "Corviknight",
-    "Umbreon"
+    "Abomasnow",
+    "Mimikyu",
+    "Stunfisk"
    ],
-   "wins": 36,
+   "wins": 73,
    "total": 90,
-   "winRate": 0.4
+   "winRate": 0.8111111111111111
   },
   {
    "order": [
-    "Corviknight",
-    "Whiscash",
-    "Umbreon"
+    "Stunfisk",
+    "Mimikyu",
+    "Abomasnow"
    ],
-   "wins": 22,
+   "wins": 50,
    "total": 90,
-   "winRate": 0.24444444444444444
+   "winRate": 0.5555555555555556
   }
  ]
 }

@@ -12,7 +12,7 @@
    8
   ],
   "label": "Altaria",
-  "level": 5.0
+  "level": 29.5
  },
  {
   "id": "mimikyu",
@@ -27,7 +27,7 @@
    15
   ],
   "label": "Mimikyu",
-  "level": 15.0
+  "level": 23.5
  },
  {
   "id": "corviknight",
@@ -42,7 +42,7 @@
    15
   ],
   "label": "Corviknight",
-  "level": 20.0
+  "level": 21.5
  },
  {
   "id": "malamar",
@@ -57,7 +57,7 @@
    15
   ],
   "label": "Malamar",
-  "level": 12.0
+  "level": 24
  },
  {
   "id": "ninetales",
@@ -72,7 +72,7 @@
    15
   ],
   "label": "Ninetales",
-  "level": 21.0
+  "level": 25
  },
  {
   "id": "whiscash",
@@ -87,7 +87,7 @@
    14
   ],
   "label": "Whiscash",
-  "level": 27.0
+  "level": 27
  },
  {
   "id": "azumarill",
@@ -102,7 +102,7 @@
    15
   ],
   "label": "Azumarill",
-  "level": 24.0
+  "level": 45.5
  },
  {
   "id": "cradily",
@@ -117,7 +117,7 @@
    15
   ],
   "label": "Cradily",
-  "level": 8.0
+  "level": 26
  },
  {
   "id": "pelipper",
@@ -132,7 +132,7 @@
    15
   ],
   "label": "Pelipper",
-  "level": 2.0
+  "level": 26.5
  },
  {
   "id": "mandibuzz",
@@ -147,7 +147,7 @@
    13
   ],
   "label": "Mandibuzz",
-  "level": 20.0
+  "level": 25
  },
  {
   "id": "clodsire",
@@ -162,7 +162,7 @@
    13
   ],
   "label": "Clodsire",
-  "level": 25.0
+  "level": 30.5
  },
  {
   "id": "excadrill",
@@ -177,7 +177,7 @@
    14
   ],
   "label": "Excadrill",
-  "level": 7.0
+  "level": 17
  },
  {
   "id": "dunsparce",
@@ -192,7 +192,7 @@
    11
   ],
   "label": "Dunsparce",
-  "level": 27.0
+  "level": 41
  },
  {
   "id": "stunfisk",
@@ -207,7 +207,7 @@
    15
   ],
   "label": "Stunfisk",
-  "level": 21.0
+  "level": 26.5
  },
  {
   "id": "talonflame",
@@ -222,7 +222,7 @@
    15
   ],
   "label": "Talonflame",
-  "level": 10.0
+  "level": 25.5
  },
  {
   "id": "umbreon",
@@ -237,7 +237,7 @@
    10
   ],
   "label": "Umbreon",
-  "level": 26.0
+  "level": 27.5
  },
  {
   "id": "vigoroth",
@@ -252,7 +252,7 @@
    14
   ],
   "label": "Vigoroth",
-  "level": 7.0
+  "level": 28
  },
  {
   "id": "lanturn",
@@ -267,7 +267,7 @@
    12
   ],
   "label": "Lanturn",
-  "level": 23.0
+  "level": 27
  },
  {
   "id": "abomasnow",
@@ -282,7 +282,7 @@
    15
   ],
   "label": "Abomasnow",
-  "level": 21.0
+  "level": 24
  },
  {
   "id": "jellicent",
@@ -297,6 +297,6 @@
    15
   ],
   "label": "Jellicent",
-  "level": 15.0
+  "level": 23
  }
 ]
