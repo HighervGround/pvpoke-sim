@@ -67,18 +67,26 @@ function battle3v3(teamA, teamB, aiLevel = 3) {
   // Voluntary-switch policy (extracted core of the AI's SWITCH_BASIC idea):
   // if clearly losing the current matchup and a benched mon rates much better,
   // switch. Checked every 40 turns per side; gated on the real switch clock.
-  function considerVoluntarySwitch(side, turn) {
-    if (turn - lastVolCheck[side] < 15) return false;
+  // Decide a voluntary switch WITHOUT applying it (team index, or -1).
+  // Seat-bias fix (2026-10-30, same change as the faint fix below): both
+  // sides' decisions are taken from the same board snapshot, then applied.
+  // The old flow checked side 0 first and applied its switch immediately, so
+  // side 1's check, moments later in the same tick, evaluated against side
+  // 0's brand-new mon and could counter-switch into a locked opponent, while
+  // side 0 never got the same reply. In the Forretress/Drapion/Jellicent
+  // matchup that artifact alone was worth ~60 points of win rate by seat.
+  function decideVoluntarySwitch(side, turn) {
+    if (turn - lastVolCheck[side] < 15) return -1;
     lastVolCheck[side] = turn;
     const player = players[side];
-    if (player.getSwitchTimer() > 0 || player.getRemainingPokemon() < 2) return false;
+    if (player.getSwitchTimer() > 0 || player.getRemainingPokemon() < 2) return -1;
     const activeMon = battle.getPokemon()[side];
     const opponent = battle.getPokemon()[side === 0 ? 1 : 0];
-    if (activeMon.hp <= 0 || opponent.hp <= 0) return false;
-    if (activeMon.hp / activeMon.stats.hp > 0.75) return false;
+    if (activeMon.hp <= 0 || opponent.hp <= 0) return -1;
+    if (activeMon.hp / activeMon.stats.hp > 0.75) return -1;
     const ai = player.getAI();
     const rActive = ai.runScenario('NO_BAIT', activeMon, opponent).average;
-    if (rActive >= 475) return false;
+    if (rActive >= 475) return -1;
     let best = null;
     const team = player.getTeam();
     for (let n = 0; n < team.length; n++) {
@@ -87,11 +95,8 @@ function battle3v3(teamA, teamB, aiLevel = 3) {
         if (!best || r > best.r) best = { idx: n, r };
       }
     }
-    if (best && best.r - rActive > 125) {
-      switchInVoluntary(side, best.idx);
-      return true;
-    }
-    return false;
+    if (best && best.r - rActive > 125) return best.idx;
+    return -1;
   }
   const lastVolCheck = [-1000, -1000];
 
@@ -105,22 +110,51 @@ function battle3v3(teamA, teamB, aiLevel = 3) {
       battle.step();
       turns++;
       if (turns % 15 === 0) {
-        considerVoluntarySwitch(0, turns);
-        considerVoluntarySwitch(1, turns);
+        const d0 = decideVoluntarySwitch(0, turns);
+        const d1 = decideVoluntarySwitch(1, turns);
+        const decisions = [d0, d1];
+        const order = Math.random() < 0.5 ? [0, 1] : [1, 0];
+        for (const s of order) {
+          if (decisions[s] >= 0) switchInVoluntary(s, decisions[s]);
+        }
       }
     }
     if (turns >= MAX_TURNS) break;
 
-    // Fainted sides switch via the AI
+    // Fainted sides switch via the AI.
+    // Side-bias fix (2026-10-30): decide ALL switch-ins from the same board
+    // state before applying any of them, and cancel the survivor-pause after
+    // a double faint. The old sequential loop handed seat B two gifts on a
+    // double faint: (1) its decideSwitch() evaluates bench mons against the
+    // opponent's CURRENT active, so it picked against side 0's already-set
+    // replacement while side 0 picked blind against a fainted mon;
+    // (2) switchIn's opponent cooldown = 500 (meant to pause a lone survivor
+    // while a replacement enters) landed on side 0's fresh mon. Mirrors ran
+    // 0/99 for side A before this fix; the 1v1 engine itself is seat-fair.
+    const faintedSides = [0, 1].filter(
+      (i) => active()[i].hp <= 0 && players[i].getRemainingPokemon() > 0
+    );
+    const choices = faintedSides.map((i) => players[i].getAI().decideSwitch());
     let switched = false;
-    for (let i = 0; i < 2; i++) {
-      if (active()[i].hp <= 0 && players[i].getRemainingPokemon() > 0) {
-        const choice = players[i].getAI().decideSwitch();
-        if (typeof choice === 'number' && choice >= 0 && players[i].getTeam()[choice].hp > 0) {
-          switchIn(i, choice);
-          switched = true;
-        }
+    // On a double faint, apply the two switch-ins in a coin-flip order: the
+    // engine gives the last-registered mon a systematic edge in the next leg
+    // (reversing the order flipped a 2-mon mirror from 0/99 to 99/99), and
+    // the mons' own state is identical either way, so no deterministic order
+    // is fair. Randomizing makes the gift seat-neutral in expectation.
+    const applyOrder = faintedSides.map((_, k) => k);
+    if (faintedSides.length === 2 && Math.random() < 0.5) applyOrder.reverse();
+    applyOrder.forEach((k) => {
+      const side = faintedSides[k];
+      const choice = choices[k];
+      if (typeof choice === 'number' && choice >= 0 && players[side].getTeam()[choice].hp > 0) {
+        switchIn(side, choice);
+        switched = true;
       }
+    });
+    if (faintedSides.length === 2 && switched) {
+      const act = active();
+      if (act[0]) act[0].cooldown = 0;
+      if (act[1]) act[1].cooldown = 0;
     }
     if (!switched) break;
   }

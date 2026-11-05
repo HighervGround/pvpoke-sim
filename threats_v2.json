@@ -679,5 +679,1400 @@
   "label": "Medicham",
   "w": 681,
   "rating": 681
+ },
+ {
+  "id": "scizor_shadow",
+  "moves": [
+   "FURY_CUTTER",
+   "NIGHT_SLASH",
+   "TRAILBLAZE"
+  ],
+  "ivs": [
+   4,
+   14,
+   12
+  ],
+  "level": 18.5,
+  "label": "Scizor (Shadow)",
+  "w": 681,
+  "rating": 681
+ },
+ {
+  "id": "gligar_shadow",
+  "moves": [
+   "WING_ATTACK",
+   "NIGHT_SLASH",
+   "DIG"
+  ],
+  "ivs": [
+   4,
+   13,
+   15
+  ],
+  "level": 31,
+  "label": "Gligar (Shadow)",
+  "w": 680,
+  "rating": 680
+ },
+ {
+  "id": "goodra",
+  "moves": [
+   "DRAGON_BREATH",
+   "AQUA_TAIL",
+   "THUNDER_PUNCH"
+  ],
+  "ivs": [
+   4,
+   9,
+   12
+  ],
+  "level": 16,
+  "label": "Goodra",
+  "w": 680,
+  "rating": 680
+ },
+ {
+  "id": "solrock",
+  "moves": [
+   "PSYWAVE",
+   "WEATHER_BALL_FIRE",
+   "ROCK_SLIDE"
+  ],
+  "ivs": [
+   4,
+   13,
+   15
+  ],
+  "level": 24,
+  "label": "Solrock",
+  "w": 680,
+  "rating": 680
+ },
+ {
+  "id": "dusknoir",
+  "moves": [
+   "ASTONISH",
+   "DYNAMIC_PUNCH",
+   "SHADOW_PUNCH"
+  ],
+  "ivs": [
+   5,
+   15,
+   11
+  ],
+  "level": 23.5,
+  "label": "Dusknoir",
+  "w": 679,
+  "rating": 679
+ },
+ {
+  "id": "aromatisse",
+  "moves": [
+   "FAIRY_WIND",
+   "MOONBLAST",
+   "PSYSHOCK"
+  ],
+  "ivs": [
+   4,
+   14,
+   13
+  ],
+  "level": 24,
+  "label": "Aromatisse",
+  "w": 678,
+  "rating": 678
+ },
+ {
+  "id": "mawile",
+  "moves": [
+   "FAIRY_WIND",
+   "VICE_GRIP",
+   "IRON_HEAD"
+  ],
+  "ivs": [
+   4,
+   13,
+   15
+  ],
+  "level": 39,
+  "label": "Mawile",
+  "w": 678,
+  "rating": 678
+ },
+ {
+  "id": "sableye",
+  "moves": [
+   "SHADOW_CLAW",
+   "FOUL_PLAY",
+   "POWER_GEM"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 47,
+  "label": "Sableye",
+  "w": 677,
+  "rating": 677
+ },
+ {
+  "id": "ninetales_alolan_shadow",
+  "moves": [
+   "POWDER_SNOW",
+   "WEATHER_BALL_ICE",
+   "CHILLING_WATER"
+  ],
+  "ivs": [
+   5,
+   15,
+   15
+  ],
+  "level": 24,
+  "label": "Ninetales (Alolan) (Shadow)",
+  "w": 677,
+  "rating": 677
+ },
+ {
+  "id": "weezing_galarian_shadow",
+  "moves": [
+   "FAIRY_WIND",
+   "SLUDGE",
+   "BRUTAL_SWING"
+  ],
+  "ivs": [
+   4,
+   14,
+   13
+  ],
+  "level": 24.5,
+  "label": "Weezing (Galarian) (Shadow)",
+  "w": 677,
+  "rating": 677
+ },
+ {
+  "id": "togekiss",
+  "moves": [
+   "PECK",
+   "PSYSHOCK",
+   "AURA_SPHERE"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 16.5,
+  "label": "Togekiss",
+  "w": 677,
+  "rating": 677
+ },
+ {
+  "id": "abomasnow_shadow",
+  "moves": [
+   "POWDER_SNOW",
+   "WEATHER_BALL_ICE",
+   "ENERGY_BALL"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 23.5,
+  "label": "Abomasnow (Shadow)",
+  "w": 676,
+  "rating": 676
+ },
+ {
+  "id": "zweilous",
+  "moves": [
+   "DRAGON_BREATH",
+   "BODY_SLAM",
+   "DARK_PULSE"
+  ],
+  "ivs": [
+   5,
+   15,
+   15
+  ],
+  "level": 30.5,
+  "label": "Zweilous",
+  "w": 675,
+  "rating": 675
+ },
+ {
+  "id": "overqwil",
+  "moves": [
+   "POISON_STING",
+   "AQUA_TAIL",
+   "DARK_PULSE"
+  ],
+  "ivs": [
+   6,
+   15,
+   15
+  ],
+  "level": 18.5,
+  "label": "Overqwil",
+  "w": 675,
+  "rating": 675
+ },
+ {
+  "id": "charizard_shadow",
+  "moves": [
+   "EMBER",
+   "BLAST_BURN",
+   "AIR_CUTTER"
+  ],
+  "ivs": [
+   5,
+   14,
+   15
+  ],
+  "level": 19,
+  "label": "Charizard (Shadow)",
+  "w": 675,
+  "rating": 675
+ },
+ {
+  "id": "qwilfish_shadow",
+  "moves": [
+   "POISON_STING",
+   "AQUA_TAIL",
+   "SHADOW_BALL"
+  ],
+  "ivs": [
+   5,
+   14,
+   15
+  ],
+  "level": 27,
+  "label": "Qwilfish (Shadow)",
+  "w": 675,
+  "rating": 675
+ },
+ {
+  "id": "gyarados_mega",
+  "moves": [
+   "DRAGON_BREATH",
+   "AQUA_TAIL",
+   "CRUNCH"
+  ],
+  "ivs": [
+   5,
+   15,
+   14
+  ],
+  "level": 11.5,
+  "label": "Gyarados (Mega)",
+  "w": 675,
+  "rating": 675
+ },
+ {
+  "id": "malamar_shadow",
+  "moves": [
+   "PSYWAVE",
+   "FOUL_PLAY",
+   "SUPER_POWER"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 23.5,
+  "label": "Malamar (Shadow)",
+  "w": 674,
+  "rating": 674
+ },
+ {
+  "id": "ninetales_alolan",
+  "moves": [
+   "POWDER_SNOW",
+   "WEATHER_BALL_ICE",
+   "CHILLING_WATER"
+  ],
+  "ivs": [
+   5,
+   15,
+   15
+  ],
+  "level": 24,
+  "label": "Ninetales (Alolan)",
+  "w": 674,
+  "rating": 674
+ },
+ {
+  "id": "qwilfish_hisuian",
+  "moves": [
+   "POISON_STING",
+   "AQUA_TAIL",
+   "DARK_PULSE"
+  ],
+  "ivs": [
+   4,
+   14,
+   15
+  ],
+  "level": 26,
+  "label": "Qwilfish (Hisuian)",
+  "w": 674,
+  "rating": 674
+ },
+ {
+  "id": "aerodactyl_shadow",
+  "moves": [
+   "DRAGON_BREATH",
+   "ROCK_SLIDE",
+   "BRUTAL_SWING"
+  ],
+  "ivs": [
+   4,
+   14,
+   11
+  ],
+  "level": 20,
+  "label": "Aerodactyl (Shadow)",
+  "w": 674,
+  "rating": 674
+ },
+ {
+  "id": "samurott_hisuian",
+  "moves": [
+   "FURY_CUTTER",
+   "SACRED_SWORD",
+   "DARK_PULSE"
+  ],
+  "ivs": [
+   4,
+   10,
+   14
+  ],
+  "level": 20,
+  "label": "Samurott (Hisuian)",
+  "w": 673,
+  "rating": 673
+ },
+ {
+  "id": "mawile_mega",
+  "moves": [
+   "FAIRY_WIND",
+   "VICE_GRIP",
+   "IRON_HEAD"
+  ],
+  "ivs": [
+   4,
+   11,
+   15
+  ],
+  "level": 23.5,
+  "label": "Mawile (Mega)",
+  "w": 672,
+  "rating": 672
+ },
+ {
+  "id": "blaziken",
+  "moves": [
+   "EMBER",
+   "AURA_SPHERE",
+   "BLAST_BURN"
+  ],
+  "ivs": [
+   4,
+   13,
+   12
+  ],
+  "level": 19.5,
+  "label": "Blaziken",
+  "w": 672,
+  "rating": 672
+ },
+ {
+  "id": "ursaring_shadow",
+  "moves": [
+   "SHADOW_CLAW",
+   "CLOSE_COMBAT",
+   "SWIFT"
+  ],
+  "ivs": [
+   7,
+   15,
+   13
+  ],
+  "level": 18.5,
+  "label": "Ursaring (Shadow)",
+  "w": 671,
+  "rating": 671
+ },
+ {
+  "id": "empoleon",
+  "moves": [
+   "METAL_SOUND",
+   "HYDRO_CANNON",
+   "DRILL_PECK"
+  ],
+  "ivs": [
+   5,
+   15,
+   13
+  ],
+  "level": 19,
+  "label": "Empoleon",
+  "w": 670,
+  "rating": 670
+ },
+ {
+  "id": "muk_alolan",
+  "moves": [
+   "POISON_JAB",
+   "BRUTAL_SWING",
+   "ICE_PUNCH"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 20,
+  "label": "Muk (Alolan)",
+  "w": 669,
+  "rating": 669
+ },
+ {
+  "id": "shelgon",
+  "moves": [
+   "DRAGON_BREATH",
+   "TWISTER",
+   "FLAMETHROWER"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 27.5,
+  "label": "Shelgon",
+  "w": 669,
+  "rating": 669
+ },
+ {
+  "id": "zweilous_shadow",
+  "moves": [
+   "DRAGON_BREATH",
+   "BODY_SLAM",
+   "DARK_PULSE"
+  ],
+  "ivs": [
+   5,
+   15,
+   15
+  ],
+  "level": 30.5,
+  "label": "Zweilous (Shadow)",
+  "w": 669,
+  "rating": 669
+ },
+ {
+  "id": "sliggoo",
+  "moves": [
+   "DRAGON_BREATH",
+   "BODY_SLAM",
+   "DRAGON_PULSE"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 27.5,
+  "label": "Sliggoo",
+  "w": 668,
+  "rating": 668
+ },
+ {
+  "id": "abomasnow",
+  "moves": [
+   "POWDER_SNOW",
+   "WEATHER_BALL_ICE",
+   "ENERGY_BALL"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 23.5,
+  "label": "Abomasnow",
+  "w": 668,
+  "rating": 668
+ },
+ {
+  "id": "greninja",
+  "moves": [
+   "WATER_SHURIKEN",
+   "HYDRO_CANNON",
+   "BRUTAL_SWING"
+  ],
+  "ivs": [
+   5,
+   12,
+   12
+  ],
+  "level": 21,
+  "label": "Greninja",
+  "w": 668,
+  "rating": 668
+ },
+ {
+  "id": "teddiursa_shadow",
+  "moves": [
+   "SCRATCH",
+   "SWIFT",
+   "CROSS_CHOP"
+  ],
+  "ivs": [
+   15,
+   15,
+   15
+  ],
+  "level": 49.5,
+  "label": "Teddiursa (Shadow)",
+  "w": 668,
+  "rating": 668
+ },
+ {
+  "id": "florges",
+  "moves": [
+   "FAIRY_WIND",
+   "CHILLING_WATER",
+   "MOONBLAST"
+  ],
+  "ivs": [
+   6,
+   13,
+   14
+  ],
+  "level": 17,
+  "label": "Florges",
+  "w": 667,
+  "rating": 667
+ },
+ {
+  "id": "araquanid",
+  "moves": [
+   "INFESTATION",
+   "WATER_PULSE",
+   "MIRROR_COAT"
+  ],
+  "ivs": [
+   5,
+   15,
+   14
+  ],
+  "level": 32,
+  "label": "Araquanid",
+  "w": 667,
+  "rating": 667
+ },
+ {
+  "id": "empoleon_shadow",
+  "moves": [
+   "METAL_SOUND",
+   "HYDRO_CANNON",
+   "DRILL_PECK"
+  ],
+  "ivs": [
+   5,
+   15,
+   13
+  ],
+  "level": 19,
+  "label": "Empoleon (Shadow)",
+  "w": 667,
+  "rating": 667
+ },
+ {
+  "id": "jumpluff",
+  "moves": [
+   "FAIRY_WIND",
+   "ENERGY_BALL",
+   "ACROBATICS"
+  ],
+  "ivs": [
+   4,
+   15,
+   12
+  ],
+  "level": 40.5,
+  "label": "Jumpluff",
+  "w": 666,
+  "rating": 666
+ },
+ {
+  "id": "snorlax_shadow",
+  "moves": [
+   "PSYWAVE",
+   "BODY_SLAM",
+   "SUPER_POWER"
+  ],
+  "ivs": [
+   4,
+   14,
+   5
+  ],
+  "level": 17.5,
+  "label": "Snorlax (Shadow)",
+  "w": 666,
+  "rating": 666
+ },
+ {
+  "id": "stunfisk_galarian",
+  "moves": [
+   "MUD_SHOT",
+   "ROCK_SLIDE",
+   "EARTHQUAKE"
+  ],
+  "ivs": [
+   5,
+   15,
+   13
+  ],
+  "level": 26,
+  "label": "Stunfisk (Galarian)",
+  "w": 666,
+  "rating": 666
+ },
+ {
+  "id": "zapdos_shadow",
+  "moves": [
+   "THUNDER_SHOCK",
+   "DRILL_PECK",
+   "HEAT_WAVE"
+  ],
+  "ivs": [
+   14,
+   15,
+   10
+  ],
+  "level": 15,
+  "label": "Zapdos (Shadow)",
+  "w": 666,
+  "rating": 666
+ },
+ {
+  "id": "scizor",
+  "moves": [
+   "FURY_CUTTER",
+   "NIGHT_SLASH",
+   "TRAILBLAZE"
+  ],
+  "ivs": [
+   4,
+   14,
+   12
+  ],
+  "level": 18.5,
+  "label": "Scizor",
+  "w": 666,
+  "rating": 666
+ },
+ {
+  "id": "drampa",
+  "moves": [
+   "DRAGON_BREATH",
+   "SWIFT",
+   "DRAGON_PULSE"
+  ],
+  "ivs": [
+   4,
+   15,
+   12
+  ],
+  "level": 19,
+  "label": "Drampa",
+  "w": 666,
+  "rating": 666
+ },
+ {
+  "id": "guzzlord",
+  "moves": [
+   "DRAGON_TAIL",
+   "BRUTAL_SWING",
+   "SLUDGE_BOMB"
+  ],
+  "ivs": [
+   4,
+   13,
+   10
+  ],
+  "level": 19.5,
+  "label": "Guzzlord",
+  "w": 665,
+  "rating": 665
+ },
+ {
+  "id": "dusclops_shadow",
+  "moves": [
+   "HEX",
+   "ICE_PUNCH",
+   "SHADOW_PUNCH"
+  ],
+  "ivs": [
+   4,
+   13,
+   15
+  ],
+  "level": 42,
+  "label": "Dusclops (Shadow)",
+  "w": 665,
+  "rating": 665
+ },
+ {
+  "id": "dusknoir_shadow",
+  "moves": [
+   "ASTONISH",
+   "DYNAMIC_PUNCH",
+   "SHADOW_PUNCH"
+  ],
+  "ivs": [
+   5,
+   15,
+   11
+  ],
+  "level": 23.5,
+  "label": "Dusknoir (Shadow)",
+  "w": 665,
+  "rating": 665
+ },
+ {
+  "id": "emolga",
+  "moves": [
+   "THUNDER_SHOCK",
+   "ACROBATICS",
+   "DISCHARGE"
+  ],
+  "ivs": [
+   4,
+   13,
+   13
+  ],
+  "level": 39.5,
+  "label": "Emolga",
+  "w": 665,
+  "rating": 665
+ },
+ {
+  "id": "dragalge",
+  "moves": [
+   "ACID",
+   "AQUA_TAIL",
+   "OUTRAGE"
+  ],
+  "ivs": [
+   5,
+   14,
+   12
+  ],
+  "level": 23.5,
+  "label": "Dragalge",
+  "w": 665,
+  "rating": 665
+ },
+ {
+  "id": "greninja_mega",
+  "moves": [
+   "WATER_SHURIKEN",
+   "HYDRO_CANNON",
+   "BRUTAL_SWING",
+   "SURF_PLUS"
+  ],
+  "ivs": [
+   4,
+   11,
+   15
+  ],
+  "level": 14.5,
+  "label": "Greninja (Mega)",
+  "w": 665,
+  "rating": 665
+ },
+ {
+  "id": "ninetales",
+  "moves": [
+   "EMBER",
+   "WEATHER_BALL_FIRE",
+   "ENERGY_BALL"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 24.5,
+  "label": "Ninetales",
+  "w": 664,
+  "rating": 664
+ },
+ {
+  "id": "crustle",
+  "moves": [
+   "FURY_CUTTER",
+   "X_SCISSOR",
+   "ROCK_WRECKER"
+  ],
+  "ivs": [
+   4,
+   15,
+   12
+  ],
+  "level": 22,
+  "label": "Crustle",
+  "w": 664,
+  "rating": 664
+ },
+ {
+  "id": "machamp",
+  "moves": [
+   "KARATE_CHOP",
+   "CROSS_CHOP",
+   "ROCK_SLIDE"
+  ],
+  "ivs": [
+   5,
+   15,
+   12
+  ],
+  "level": 18,
+  "label": "Machamp",
+  "w": 664,
+  "rating": 664
+ },
+ {
+  "id": "thievul",
+  "moves": [
+   "SUCKER_PUNCH",
+   "NIGHT_SLASH",
+   "ICY_WIND"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 26,
+  "label": "Thievul",
+  "w": 663,
+  "rating": 663
+ },
+ {
+  "id": "clodsire",
+  "moves": [
+   "POISON_STING",
+   "EARTHQUAKE",
+   "STONE_EDGE"
+  ],
+  "ivs": [
+   4,
+   14,
+   10
+  ],
+  "level": 29.5,
+  "label": "Clodsire",
+  "w": 663,
+  "rating": 663
+ },
+ {
+  "id": "shelgon_shadow",
+  "moves": [
+   "DRAGON_BREATH",
+   "TWISTER",
+   "FLAMETHROWER"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 27.5,
+  "label": "Shelgon (Shadow)",
+  "w": 663,
+  "rating": 663
+ },
+ {
+  "id": "aurorus_shadow",
+  "moves": [
+   "POWDER_SNOW",
+   "WEATHER_BALL_ICE",
+   "METEOR_BEAM"
+  ],
+  "ivs": [
+   4,
+   15,
+   10
+  ],
+  "level": 20,
+  "label": "Aurorus (Shadow)",
+  "w": 663,
+  "rating": 663
+ },
+ {
+  "id": "charizard",
+  "moves": [
+   "EMBER",
+   "BLAST_BURN",
+   "AIR_CUTTER"
+  ],
+  "ivs": [
+   5,
+   14,
+   15
+  ],
+  "level": 19,
+  "label": "Charizard",
+  "w": 663,
+  "rating": 663
+ },
+ {
+  "id": "murkrow",
+  "moves": [
+   "PECK",
+   "DRILL_PECK",
+   "FOUL_PLAY"
+  ],
+  "ivs": [
+   5,
+   15,
+   15
+  ],
+  "level": 41,
+  "label": "Murkrow",
+  "w": 663,
+  "rating": 663
+ },
+ {
+  "id": "gallade_shadow",
+  "moves": [
+   "PSYCHO_CUT",
+   "LEAF_BLADE",
+   "SACRED_SWORD"
+  ],
+  "ivs": [
+   4,
+   9,
+   15
+  ],
+  "level": 18,
+  "label": "Gallade (Shadow)",
+  "w": 663,
+  "rating": 663
+ },
+ {
+  "id": "corsola_galarian",
+  "moves": [
+   "ASTONISH",
+   "NIGHT_SHADE",
+   "POWER_GEM"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 47.5,
+  "label": "Corsola (Galarian)",
+  "w": 662,
+  "rating": 662
+ },
+ {
+  "id": "mantine",
+  "moves": [
+   "WING_ATTACK",
+   "TWISTER",
+   "WATER_PULSE"
+  ],
+  "ivs": [
+   4,
+   14,
+   12
+  ],
+  "level": 27,
+  "label": "Mantine",
+  "w": 662,
+  "rating": 662
+ },
+ {
+  "id": "jumpluff_shadow",
+  "moves": [
+   "FAIRY_WIND",
+   "ENERGY_BALL",
+   "ACROBATICS"
+  ],
+  "ivs": [
+   4,
+   15,
+   12
+  ],
+  "level": 40.5,
+  "label": "Jumpluff (Shadow)",
+  "w": 662,
+  "rating": 662
+ },
+ {
+  "id": "primeape_shadow",
+  "moves": [
+   "KARATE_CHOP",
+   "RAGE_FIST",
+   "ICE_PUNCH"
+  ],
+  "ivs": [
+   5,
+   15,
+   15
+  ],
+  "level": 24,
+  "label": "Primeape (Shadow)",
+  "w": 662,
+  "rating": 662
+ },
+ {
+  "id": "quagsire",
+  "moves": [
+   "MUD_SHOT",
+   "AQUA_TAIL",
+   "STONE_EDGE"
+  ],
+  "ivs": [
+   4,
+   15,
+   10
+  ],
+  "level": 28.5,
+  "label": "Quagsire",
+  "w": 660,
+  "rating": 660
+ },
+ {
+  "id": "murkrow_shadow",
+  "moves": [
+   "PECK",
+   "DRILL_PECK",
+   "FOUL_PLAY"
+  ],
+  "ivs": [
+   5,
+   15,
+   15
+  ],
+  "level": 41,
+  "label": "Murkrow (Shadow)",
+  "w": 660,
+  "rating": 660
+ },
+ {
+  "id": "sandslash_alolan",
+  "moves": [
+   "POWDER_SNOW",
+   "ICE_PUNCH",
+   "DRILL_RUN"
+  ],
+  "ivs": [
+   4,
+   13,
+   15
+  ],
+  "level": 23,
+  "label": "Sandslash (Alolan)",
+  "w": 660,
+  "rating": 660
+ },
+ {
+  "id": "marowak_alolan",
+  "moves": [
+   "FIRE_SPIN",
+   "BONE_CLUB",
+   "SHADOW_BONE"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 31.5,
+  "label": "Marowak (Alolan)",
+  "w": 660,
+  "rating": 660
+ },
+ {
+  "id": "fearow",
+  "moves": [
+   "PECK",
+   "DRILL_PECK",
+   "DRILL_RUN"
+  ],
+  "ivs": [
+   4,
+   15,
+   13
+  ],
+  "level": 28,
+  "label": "Fearow",
+  "w": 659,
+  "rating": 659
+ },
+ {
+  "id": "jellicent",
+  "moves": [
+   "HEX",
+   "SURF",
+   "SHADOW_BALL"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 24,
+  "label": "Jellicent",
+  "w": 659,
+  "rating": 659
+ },
+ {
+  "id": "snorlax",
+  "moves": [
+   "PSYWAVE",
+   "BODY_SLAM",
+   "EARTHQUAKE"
+  ],
+  "ivs": [
+   4,
+   14,
+   5
+  ],
+  "level": 17.5,
+  "label": "Snorlax",
+  "w": 659,
+  "rating": 659
+ },
+ {
+  "id": "muk_alolan_shadow",
+  "moves": [
+   "POISON_JAB",
+   "BRUTAL_SWING",
+   "ICE_PUNCH"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 20,
+  "label": "Muk (Alolan) (Shadow)",
+  "w": 659,
+  "rating": 659
+ },
+ {
+  "id": "gligar",
+  "moves": [
+   "WING_ATTACK",
+   "NIGHT_SLASH",
+   "DIG"
+  ],
+  "ivs": [
+   4,
+   13,
+   15
+  ],
+  "level": 31,
+  "label": "Gligar",
+  "w": 659,
+  "rating": 659
+ },
+ {
+  "id": "marowak_alolan_shadow",
+  "moves": [
+   "FIRE_SPIN",
+   "SHADOW_BONE",
+   "BONE_CLUB"
+  ],
+  "ivs": [
+   4,
+   15,
+   14
+  ],
+  "level": 31.5,
+  "label": "Marowak (Alolan) (Shadow)",
+  "w": 659,
+  "rating": 659
+ },
+ {
+  "id": "scizor_mega",
+  "moves": [
+   "FURY_CUTTER",
+   "NIGHT_SLASH",
+   "TRAILBLAZE"
+  ],
+  "ivs": [
+   4,
+   10,
+   14
+  ],
+  "level": 13.5,
+  "label": "Scizor (Mega)",
+  "w": 659,
+  "rating": 659
+ },
+ {
+  "id": "altaria",
+  "moves": [
+   "DRAGON_BREATH",
+   "MOONBLAST",
+   "FLAMETHROWER"
+  ],
+  "ivs": [
+   4,
+   12,
+   13
+  ],
+  "level": 28.5,
+  "label": "Altaria",
+  "w": 658,
+  "rating": 658
+ },
+ {
+  "id": "clefable",
+  "moves": [
+   "FAIRY_WIND",
+   "MOONBLAST",
+   "METEOR_MASH"
+  ],
+  "ivs": [
+   4,
+   13,
+   14
+  ],
+  "level": 23,
+  "label": "Clefable",
+  "w": 658,
+  "rating": 658
+ },
+ {
+  "id": "politoed_shadow",
+  "moves": [
+   "MUD_SHOT",
+   "WEATHER_BALL_WATER",
+   "ICE_BEAM"
+  ],
+  "ivs": [
+   4,
+   15,
+   10
+  ],
+  "level": 23,
+  "label": "Politoed (Shadow)",
+  "w": 658,
+  "rating": 658
+ },
+ {
+  "id": "persian_shadow",
+  "moves": [
+   "SCRATCH",
+   "NIGHT_SLASH",
+   "POWER_GEM"
+  ],
+  "ivs": [
+   4,
+   15,
+   15
+  ],
+  "level": 36.5,
+  "label": "Persian (Shadow)",
+  "w": 658,
+  "rating": 658
+ },
+ {
+  "id": "weezing_galarian",
+  "moves": [
+   "FAIRY_WIND",
+   "SLUDGE",
+   "BRUTAL_SWING"
+  ],
+  "ivs": [
+   4,
+   14,
+   13
+  ],
+  "level": 24.5,
+  "label": "Weezing (Galarian)",
+  "w": 658,
+  "rating": 658
+ },
+ {
+  "id": "sealeo_shadow",
+  "moves": [
+   "POWDER_SNOW",
+   "SURF",
+   "BODY_SLAM"
+  ],
+  "ivs": [
+   5,
+   15,
+   12
+  ],
+  "level": 36,
+  "label": "Sealeo (Shadow)",
+  "w": 657,
+  "rating": 657
+ },
+ {
+  "id": "sandslash_alolan_shadow",
+  "moves": [
+   "POWDER_SNOW",
+   "ICE_PUNCH",
+   "DRILL_RUN"
+  ],
+  "ivs": [
+   4,
+   13,
+   15
+  ],
+  "level": 23,
+  "label": "Sandslash (Alolan) (Shadow)",
+  "w": 657,
+  "rating": 657
+ },
+ {
+  "id": "gastrodon",
+  "moves": [
+   "MUD_SLAP",
+   "BODY_SLAM",
+   "EARTH_POWER"
+  ],
+  "ivs": [
+   1,
+   15,
+   14
+  ],
+  "level": 24.5,
+  "label": "Gastrodon",
+  "w": 655,
+  "rating": 655
+ },
+ {
+  "id": "raichu",
+  "moves": [
+   "VOLT_SWITCH",
+   "THUNDER_PUNCH",
+   "TRAILBLAZE"
+  ],
+  "ivs": [
+   0,
+   15,
+   14
+  ],
+  "level": 26,
+  "label": "Raichu",
+  "w": 640,
+  "rating": 640
  }
 ]

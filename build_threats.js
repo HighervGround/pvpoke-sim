@@ -7,7 +7,7 @@ const fs = require('fs');
 const { ready } = require('./pvpoke_harness.js');
 
 const URL = 'https://pvpoke.com/data/rankings/mega/overall/rankings-1500.json';
-const TOP_N = 40;
+const TOP_N = 120;
 
 function fetch(url) {
   return new Promise((resolve, reject) => {

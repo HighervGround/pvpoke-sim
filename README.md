@@ -47,3 +47,9 @@ Engine default: `./pvpoke` (clone from pvpoke/pvpoke). Override with `PVPOKE_PAT
 
 - GBL has no team preview; leads are blind. Lead selection assumes that.
 - Full 3v3 battle sim with switch logic (TrainingAI) is in progress, not yet wired.
+
+## Updates (Oct-Nov 2026)
+
+- Oct 30: 3v3 driver fix. Simultaneous switch decisions now resolve from the same snapshot, with coin-flip ordering on double faints and cooldown reset after double faints. Pre-fix absolute percentages are superseded.
+- Nov 2026, Mega Edition Great League: three meta sets, hand-built v1 (`meta27.js`), a corrected v2 (`mega_meta_v2.js`) rebuilt from PvPoke's Nov 3 rankings and real usage data after v1 missed the format's most-used Pokemon, and a usage-weighted v3 (`mega_meta_v3.js`). Stable ranking script: `stable_rank_20261104.js`. Reports: `mega_gl_20261101.md`, `mega_playbook_20261103.md`.
+- Nov 2026, Ultra/Master League: cap-aware driver (`battle3v3_cap.js`, Master specs pinned to level 50); sweep report in `ul_ml_20261103.md`.
