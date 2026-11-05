@@ -259,6 +259,12 @@
         }
         updateCP(slot);
       });
+      // Live CP readout while IVs are being typed, not just on blur.
+      wrap.addEventListener('input', function (e) {
+        var slot = e.target.closest('.slot');
+        if (!slot) return;
+        if (e.target.classList.contains('iv') || e.target.classList.contains('sp')) updateCP(slot);
+      });
     });
 
     // Presets
